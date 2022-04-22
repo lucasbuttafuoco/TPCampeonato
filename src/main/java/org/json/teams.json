@@ -1,0 +1,28 @@
+{
+    "team":{
+        "name":"Argentina",
+        "country":"Argentina",
+        "rankingPosition": 1,
+        "teamList":[
+            {
+                "name":"Messi",
+                "birthDate":"01/01/1990",
+                "typeDNI":"DNI",
+                "DNI":"12345123",
+                "nacionality":"Argentinian",
+                "position":"FORWARD",
+                "handicap":91
+            },
+            {
+                "name":"Martinez",
+                "birthDate":"01/01/1990",
+                "typeDNI":"DNI",
+                "DNI":"12345123",
+                "nacionality":"Argentinian",
+                "position":"GOALKEEPER",
+                "handicap":82
+            }
+        ]
+
+    }
+}

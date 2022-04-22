@@ -3,11 +3,8 @@ package org.example;
 import java.io.File;
 import java.time.LocalDate;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import org.example.classes.*;
 import org.example.enums.Positions;
-
-
 
 class app {
     public static void main(String args[]) {
@@ -32,13 +29,6 @@ class app {
 
         Match first = new Match(LocalDate.now(), boquita,river,pitana);
         first.result();
-
-        ObjectMapper objectMapper = new ObjectMapper();
-        try {
-            Team example = objectMapper.readValue(new File("C:/Users/lucas/Desktop/Facultad/Algoritmos y Estructuras de Datos II//Java/TPCamp/src/resources/teams.json"), Team.class);
-        } catch (Exception e) {
-            System.out.println(e);
-        }
     };
 
 }
