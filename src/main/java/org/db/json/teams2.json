@@ -1,0 +1,1902 @@
+{
+    "equipos": [
+       {
+          "name": "Velta de Cigo",
+          "country": "Hispania",
+          "rankingPosition": "4",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "1234",
+                      "name": "Mangalarga Juan",
+                      "nationality": "Hispania",
+                      "birthDate": "30/11/1985"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "8564",
+                      "name": "Noagarrauna Pedro",
+                      "nationality": "Hispania",
+                      "birthDate": "30/03/1985"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "5678",
+                      "name": "Quebracho Anibal",
+                      "nationality": "Hispania",
+                      "birthDate": "30/11/1995"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "5678",
+                      "name": "Nopasaras Daniel",
+                      "nationality": "Hispania",
+                      "birthDate": "30/11/1999"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "6527",
+                      "name": "Rompemedias Jose",
+                      "nationality": "Hispania",
+                      "birthDate": "01/11/1999"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "9687",
+                      "name": "Lentissimo Massimo",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/2005"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "2347",
+                      "name": "Fortachon Abel",
+                      "nationality": "Argensur",
+                      "birthDate": "30/11/2000"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "9673",
+                      "name": "Impassable Gino",
+                      "nationality": "Italica",
+                      "birthDate": "17/02/1996"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "8791",
+                      "name": "Immobile Sergei",
+                      "nationality": "Italica",
+                      "birthDate": "17/05/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "6270",
+                      "name": "HerMotor Ludwig",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/05/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "1065",
+                      "name": "Gambetita Guido",
+                      "nationality": "Argensur",
+                      "birthDate": "31/08/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "1065",
+                      "name": "Hachabrava Fernando",
+                      "nationality": "Argensur",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "6064",
+                      "name": "Redcard Jimmy",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "8084",
+                      "name": "Laemboca Mutombo",
+                      "nationality": "Nigembique",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "10",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "4235",
+                      "name": "Tanker Gerrard",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "3018",
+                      "name": "Golito Pedro",
+                      "nationality": "Hispania",
+                      "birthDate": "01/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "3717",
+                      "name": "Palomito Lucio",
+                      "nationality": "Hispania",
+                      "birthDate": "01/03/1985"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "2879",
+                      "name": "Golentra Ettore",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/2001"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "9687",
+                   "name": "Orchestra Luigi",
+                   "country": "Italica",
+                   "birthDate": "06/06/2005"
+                },
+                "titulosObtenidos": "15"
+             }
+          }
+       },
+       {
+          "name": "Perrissimos",
+          "country": "Italica",
+          "rankingPosition": "98",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "11111",
+                      "name": "Agujeretti Lino",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/1985"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "22222",
+                      "name": "Sinmanno Renzo",
+                      "nationality": "Italica",
+                      "birthDate": "30/03/1985"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "33333",
+                      "name": "Lastimosso Victor",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/1995"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "44444",
+                      "name": "Accalambra Dino",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/1999"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "55555",
+                      "name": "Nullo Giussepe",
+                      "nationality": "Italica",
+                      "birthDate": "01/11/1999"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "66666",
+                      "name": "Tragaterra Lucio",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/2005"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "77777",
+                      "name": "Horripile Genaro",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/2000"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "88888",
+                      "name": "Dessanimo Elisseo",
+                      "nationality": "Italica",
+                      "birthDate": "17/02/1996"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "99999",
+                      "name": "Disastroso Silvio",
+                      "nationality": "Italica",
+                      "birthDate": "17/05/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "1",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "10101",
+                      "name": "Disorientato Nello",
+                      "nationality": "Italica",
+                      "birthDate": "31/05/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "10110",
+                      "name": "Calammitosso Perluigi",
+                      "nationality": "Italica",
+                      "birthDate": "31/08/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "10120",
+                      "name": "Tronco Daniele",
+                      "nationality": "Italica",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "10130",
+                      "name": "Torppe Riccardo",
+                      "nationality": "Italica",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "10140",
+                      "name": "Vagabondaggio Pio",
+                      "nationality": "Italica",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "1",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "10150",
+                      "name": "Falluto Damian",
+                      "nationality": "Italica",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "10160",
+                      "name": "GolMancato Piero",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "10170",
+                      "name": "Ineficacce Mario",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/1985"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "10180",
+                      "name": "Pinocchio Geppetto",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/2001"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "10190",
+                   "name": "Perdettore Carmelo",
+                   "country": "Italica",
+                   "birthDate": "06/06/1945"
+                },
+                "titulosObtenidos": "0"
+             }
+          }
+       },
+       {
+          "name": "Munchi",
+          "country": "Germanecia",
+          "rankingPosition": "1",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21211",
+                      "name": "Atajen Karl",
+                      "nationality": "Germanecia",
+                      "birthDate": "30/11/1985"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21212",
+                      "name": "Agarren Franz",
+                      "nationality": "Germanecia",
+                      "birthDate": "30/03/1985"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21213",
+                      "name": "Denfenden Otto",
+                      "nationality": "Germanecia",
+                      "birthDate": "30/11/1995"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21214",
+                      "name": "Rechacen Klaus",
+                      "nationality": "Germanecia",
+                      "birthDate": "30/11/1999"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21215",
+                      "name": "Mediocrem Erik",
+                      "nationality": "Germanecia",
+                      "birthDate": "01/11/1999"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "21216",
+                      "name": "Pataduren Ludwig",
+                      "nationality": "Germanecia",
+                      "birthDate": "30/11/2005"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21217",
+                      "name": "Excellentem Gerrard",
+                      "nationality": "Germanecia",
+                      "birthDate": "30/11/2000"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "21218",
+                      "name": "Marken Kurt",
+                      "nationality": "Germanecia",
+                      "birthDate": "17/02/1996"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "21219",
+                      "name": "Robben Gunter",
+                      "nationality": "Germanecia",
+                      "birthDate": "17/05/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "212110",
+                      "name": "Noselaquiten Adolf",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/05/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "212111",
+                      "name": "Pulpen Igor",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/08/1994"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "212112",
+                      "name": "Todoterrenen Lottar",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "212113",
+                      "name": "Delicatessen Hubert",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "212114",
+                      "name": "Relojiten Peter",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "212115",
+                      "name": "Embokken Darius",
+                      "nationality": "Germanecia",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "212116",
+                      "name": "Implakablen Matteus",
+                      "nationality": "Germanecia",
+                      "birthDate": "01/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "212117",
+                      "name": "Efikacen Norman",
+                      "nationality": "Germanecia",
+                      "birthDate": "01/03/1985"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "212118",
+                      "name": "Goleatorem Kunz",
+                      "nationality": "Germanecia",
+                      "birthDate": "01/03/2001"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "212119",
+                   "name": "Triumffen Otto",
+                   "country": "Germanecia",
+                   "birthDate": "06/06/1945"
+                },
+                "titulosObtenidos": "19"
+             }
+          }
+       },
+       {
+          "name": "Eleven Woods",
+          "country": "Britanilandia",
+          "rankingPosition": "40",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313001",
+                      "name": "Everygoal John",
+                      "nationality": "Britanilandia",
+                      "birthDate": "30/11/1981"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313002",
+                      "name": "Sillyhands Donald",
+                      "nationality": "Britanilandia",
+                      "birthDate": "30/03/2002"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313003",
+                      "name": "Footloose Richard",
+                      "nationality": "Britanilandia",
+                      "birthDate": "30/11/1998"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313004",
+                      "name": "BigWall Hugh",
+                      "nationality": "Britanilandia",
+                      "birthDate": "30/11/1996"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313005",
+                      "name": "Doubt Miller",
+                      "nationality": "Britanilandia",
+                      "birthDate": "01/11/1994"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "313006",
+                      "name": "Hatcher Lewis",
+                      "nationality": "Britanilandia",
+                      "birthDate": "30/11/1995"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313007",
+                      "name": "Impassable Jeff",
+                      "nationality": "Britanilandia",
+                      "birthDate": "30/11/2001"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313008",
+                      "name": "IsGood Cleant",
+                      "nationality": "Britanilandia",
+                      "birthDate": "17/02/1999"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "313009",
+                      "name": "Hunter Robert",
+                      "nationality": "Britanilandia",
+                      "birthDate": "17/05/1995"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313010",
+                      "name": "Greatplayer Tim",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/05/1982"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313011",
+                      "name": "Marker Grant",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/08/1997"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313012",
+                      "name": "Breakbones Todd",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/01/2004"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "313013",
+                      "name": "Dribbler Sean",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/01/2002"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "313014",
+                      "name": "Bad Scorer Jimmy",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/03/1988"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "313015",
+                      "name": "Trickster Max",
+                      "nationality": "Britanilandia",
+                      "birthDate": "31/03/1990"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313016",
+                      "name": "Cheater Mark",
+                      "nationality": "Britanilandia",
+                      "birthDate": "01/03/1992"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313017",
+                      "name": "Donkey Charles",
+                      "nationality": "Britanilandia",
+                      "birthDate": "01/03/1995"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "313018",
+                      "name": "Poor Julien",
+                      "nationality": "Britanilandia",
+                      "birthDate": "01/03/1991"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "313019",
+                   "name": "Idontknow Chris",
+                   "country": "Scotia",
+                   "birthDate": "26/06/1960"
+                },
+                "titulosObtenidos": "2"
+             }
+          }
+       },
+       {
+          "name": "Les Petits Coqs",
+          "country": "Franchuteland",
+          "rankingPosition": "10",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413001",
+                      "name": "Arqueraux Lille",
+                      "nationality": "Franchuteland",
+                      "birthDate": "30/11/1980"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413002",
+                      "name": "JeSuisUnFromage Rene",
+                      "nationality": "Franchuteland",
+                      "birthDate": "30/03/1978"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413003",
+                      "name": "LeMarchandPepine Pierre",
+                      "nationality": "Franchuteland",
+                      "birthDate": "30/11/1979"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413004",
+                      "name": "Bastille Kilyan",
+                      "nationality": "Franchuteland",
+                      "birthDate": "30/11/1988"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413005",
+                      "name": "CaféAuLait Francois",
+                      "nationality": "Franchuteland",
+                      "birthDate": "01/11/1991"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "413006",
+                      "name": "Lepiffie Louis",
+                      "nationality": "Franchuteland",
+                      "birthDate": "30/11/1994"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413007",
+                      "name": "Infranchissable Napoleon",
+                      "nationality": "Franchuteland",
+                      "birthDate": "30/11/1990"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413008",
+                      "name": "Qualifié Bertrand",
+                      "nationality": "Franchuteland",
+                      "birthDate": "17/02/1992"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "413009",
+                      "name": "Capitaine Charles",
+                      "nationality": "Franchuteland",
+                      "birthDate": "17/05/1991"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413010",
+                      "name": "TrésMagnifique Eric",
+                      "nationality": "Franchuteland",
+                      "birthDate": "31/05/1980"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413011",
+                      "name": "Firulais Jacques",
+                      "nationality": "Franchuteland",
+                      "birthDate": "31/08/1989"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413012",
+                      "name": "Squelette Alain",
+                      "nationality": "Franchuteland",
+                      "birthDate": "31/01/1988"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "413013",
+                      "name": "PiedGrand Philippe",
+                      "nationality": "Franchuteland",
+                      "birthDate": "31/01/1987"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "413014",
+                      "name": "Brillanté Vincent",
+                      "nationality": "Franchuteland",
+                      "birthDate": "31/03/1985"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "413015",
+                      "name": "LaPeine Yves",
+                      "nationality": "Franchuteland",
+                      "birthDate": "31/03/1993"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413016",
+                      "name": "Glorieux Guillaume",
+                      "nationality": "Franchuteland",
+                      "birthDate": "01/03/1998"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413017",
+                      "name": "Goleadoreau Gilles",
+                      "nationality": "Franchuteland",
+                      "birthDate": "01/03/1993"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "413018",
+                      "name": "Optimiste Jean-Paul",
+                      "nationality": "Franchuteland",
+                      "birthDate": "01/03/1992"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "413019",
+                   "name": "Visionnaire Arnoux",
+                   "country": "Franchuteland",
+                   "birthDate": "26/06/1956"
+                },
+                "titulosObtenidos": "8"
+             }
+          }
+       },
+       {
+          "name": "Tanos Coraggiosi",
+          "country": "Italica",
+          "rankingPosition": "9",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500001",
+                      "name": "Immortale Luiggi",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/1995"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500002",
+                      "name": "BuonPortiere Dino",
+                      "nationality": "Italica",
+                      "birthDate": "30/03/1995"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500003",
+                      "name": "CorreVeloce Aldo",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/2003"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500004",
+                      "name": "Rabbioso Furius",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/1998"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500005",
+                      "name": "Arrabbiato Siro",
+                      "nationality": "Italica",
+                      "birthDate": "01/11/1997"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "500006",
+                      "name": "FelinoFeroce Gattuso",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/2000"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500007",
+                      "name": "Imperatore Antonio",
+                      "nationality": "Italica",
+                      "birthDate": "30/11/2001"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500008",
+                      "name": "Sensazionale Luca",
+                      "nationality": "Italica",
+                      "birthDate": "17/02/1998"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "500009",
+                      "name": "Capitano Celestino",
+                      "nationality": "Italica",
+                      "birthDate": "17/05/1996"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500010",
+                      "name": "Firuleto Adriano",
+                      "nationality": "Italica",
+                      "birthDate": "31/05/1993"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500011",
+                      "name": "Vittorioso Vittorio",
+                      "nationality": "Italica",
+                      "birthDate": "31/08/1998"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500012",
+                      "name": "Affascinante Pino",
+                      "nationality": "Italica",
+                      "birthDate": "31/01/1997"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "500013",
+                      "name": "Piccolo Capo Leo",
+                      "nationality": "Italica",
+                      "birthDate": "31/01/2000"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "8",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "500014",
+                      "name": "Vincitore Toni",
+                      "nationality": "Italica",
+                      "birthDate": "31/03/1999"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "9",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "500015",
+                      "name": "Spettacolare Andrea",
+                      "nationality": "Italica",
+                      "birthDate": "31/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500016",
+                      "name": "Grosso Nicola",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/2002"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500017",
+                      "name": "Cannonieri Gianni",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/1994"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "500018",
+                      "name": "Pericoloso Giocatore",
+                      "nationality": "Italica",
+                      "birthDate": "01/03/1993"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "500019",
+                   "name": "Ossessivo Salvatore",
+                   "country": "Italica",
+                   "birthDate": "06/06/1969"
+                },
+                "titulosObtenidos": "19"
+             }
+          }
+       },
+       {
+          "name": "Anime Football Club",
+          "country": "Niponia",
+          "rankingPosition": "33",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605401",
+                      "name": "Nopara Ninguna",
+                      "nationality": "Niponia",
+                      "birthDate": "30/11/1981"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605402",
+                      "name": "Sakala Sugita",
+                      "nationality": "Niponia",
+                      "birthDate": "30/03/2002"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605403",
+                      "name": "Osaka Opone",
+                      "nationality": "Niponia",
+                      "birthDate": "30/11/1998"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605404",
+                      "name": "Nikita Nipone",
+                      "nationality": "Niponia",
+                      "birthDate": "30/11/1996"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605405",
+                      "name": "Sato Hamachi",
+                      "nationality": "Niponia",
+                      "birthDate": "01/11/1994"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "605406",
+                      "name": "Moto Kawasaki",
+                      "nationality": "Niponia",
+                      "birthDate": "30/11/1995"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605407",
+                      "name": "Notira Pase",
+                      "nationality": "Niponia",
+                      "birthDate": "30/11/2001"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605408",
+                      "name": "Kamachi Salata",
+                      "nationality": "Niponia",
+                      "birthDate": "17/02/1999"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "605409",
+                      "name": "Kami Kaze",
+                      "nationality": "Niponia",
+                      "birthDate": "17/05/1995"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605410",
+                      "name": "Samu Rai",
+                      "nationality": "Niponia",
+                      "birthDate": "31/05/1982"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605411",
+                      "name": "Kimono Fuyima",
+                      "nationality": "Niponia",
+                      "birthDate": "31/08/1997"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "7",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605412",
+                      "name": "Ketira Kaño",
+                      "nationality": "Niponia",
+                      "birthDate": "31/01/2004"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "605413",
+                      "name": "Miyazaki Miyamoto",
+                      "nationality": "Niponia",
+                      "birthDate": "31/01/2002"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "605414",
+                      "name": "Toriyama Watanabe",
+                      "nationality": "Niponia",
+                      "birthDate": "31/03/1988"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "605415",
+                      "name": "Hirohito Abe",
+                      "nationality": "Niponia",
+                      "birthDate": "31/03/1990"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605416",
+                      "name": "Hirakinawa Kapo",
+                      "nationality": "Niponia",
+                      "birthDate": "01/03/1992"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605417",
+                      "name": "Utagawa Nobunaga",
+                      "nationality": "Niponia",
+                      "birthDate": "01/03/1995"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "605418",
+                      "name": "Yoritomo Osaka",
+                      "nationality": "Niponia",
+                      "birthDate": "01/03/1991"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "605419",
+                   "name": "Minamoto Kento",
+                   "country": "Niponia",
+                   "birthDate": "26/06/1960"
+                },
+                "titulosObtenidos": "1"
+             }
+          }
+       },
+       {
+          "name": "Otomano Spor",
+          "country": "Turquisia",
+          "rankingPosition": "60",
+          "teamList": {
+             "players": [
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235101",
+                      "name": "Ahivalabola Atajala",
+                      "nationality": "Turquisia",
+                      "birthDate": "30/11/1993"
+                   }
+                },
+                {
+                   "@position": "GOALKEEPER",
+                   "@handicap": "1",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235102",
+                      "name": "Nowante Emir",
+                      "nationality": "Turquisia",
+                      "birthDate": "30/03/1991"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235103",
+                      "name": "Perrak Ozil",
+                      "nationality": "Turquisia",
+                      "birthDate": "27/03/1990"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235104",
+                      "name": "Sentadat Dere",
+                      "nationality": "Turquisia",
+                      "birthDate": "30/11/1996"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235105",
+                      "name": "Fracasoduc Igor",
+                      "nationality": "Turquisia",
+                      "birthDate": "01/11/1993"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "2",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "235106",
+                      "name": "Maderak Engin",
+                      "nationality": "Turquisia",
+                      "birthDate": "30/11/1985"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "1",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235107",
+                      "name": "Lentorkan Fazil",
+                      "nationality": "Turquisia",
+                      "birthDate": "30/11/1987"
+                   }
+                },
+                {
+                   "@position": "DEFENDER",
+                   "@handicap": "3",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235108",
+                      "name": "Mepasan Todosk",
+                      "nationality": "Turquisia",
+                      "birthDate": "17/02/1984"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "235109",
+                      "name": "Nolaveok Engin",
+                      "nationality": "Turquisia",
+                      "birthDate": "17/05/1996"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235110",
+                      "name": "Desastrek Burak",
+                      "nationality": "Turquisia",
+                      "birthDate": "31/05/1997"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235111",
+                      "name": "Burako Sangu",
+                      "nationality": "Turquisia",
+                      "birthDate": "31/08/2000"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235112",
+                      "name": "Asperok Burat",
+                      "nationality": "Turquisia",
+                      "birthDate": "31/01/1997"
+                   }
+                },
+                {
+                   "@position": "MIDFIELDER",
+                   "@handicap": "5",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "235113",
+                      "name": "Brutan Tarkan",
+                      "nationality": "Turquisia",
+                      "birthDate": "31/01/1998"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "235114",
+                      "name": "Rustika Kerem",
+                      "nationality": "Turquisia",
+                      "birthDate": "31/03/1993"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "PAS",
+                      "DNI": "235115",
+                      "name": "Akino Pasarat",
+                      "nationality": "Turquisia",
+                      "birthDate": "31/03/1989"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235116",
+                      "name": "Nokorrol Unal",
+                      "nationality": "Turquisia",
+                      "birthDate": "01/03/1995"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "6",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235117",
+                      "name": "Kietorul Furkan",
+                      "nationality": "Turquisia",
+                      "birthDate": "01/03/1997"
+                   }
+                },
+                {
+                   "@position": "FORWARD",
+                   "@handicap": "4",
+                   "persona": {
+                      "typeDNI": "DU",
+                      "DNI": "235118",
+                      "name": "Malo Conganas",
+                      "nationality": "Turquisia",
+                      "birthDate": "01/03/2000"
+                   }
+                }
+             ],
+             "dt": {
+                "persona": {
+                   "typeDNI": "DU",
+                   "DNI": "235119",
+                   "name": "Vamok Patras",
+                   "country": "Turquisia",
+                   "birthDate": "06/06/1968"
+                },
+                "titulosObtenidos": "25"
+             }
+          }
+       }
+    ],
+    "arbitros": [
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852101",
+             "name": "Silbado Ariel",
+             "country": "Argensur",
+             "birthDate": "30/11/1970"
+          },
+          "years": "20"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852102",
+             "name": "Magoo Mr",
+             "country": "Britanilandia",
+             "birthDate": "30/11/1991"
+          },
+          "years": "15"
+       },
+       {
+          "persona": {
+             "typeDNI": "PAS",
+             "DNI": "9852103",
+             "name": "SigaSiga Yonoví",
+             "country": "Nigembique",
+             "birthDate": "10/03/2000"
+          },
+          "years": "3"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852104",
+             "name": "Easyredcard John",
+             "country": "Britanilandia",
+             "birthDate": "21/08/1982"
+          },
+          "years": "14"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852105",
+             "name": "Furias Pedro",
+             "country": "Hispania",
+             "birthDate": "15/12/1982"
+          },
+          "years": "13"
+       },
+       {
+          "persona": {
+             "typeDNI": "PAS",
+             "DNI": "9852106",
+             "name": "Inflessibile Petreo",
+             "country": "Italica",
+             "birthDate": "20/11/1998"
+          },
+          "years": "13"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852107",
+             "name": "Expulssen Rojen",
+             "country": "Germanecia",
+             "birthDate": "10/03/1986"
+          },
+          "years": "25"
+       },
+       {
+          "persona": {
+             "typeDNI": "PAS",
+             "DNI": "9852108",
+             "name": "Rebbobinen Rewind",
+             "country": "Germanecia",
+             "birthDate": "10/01/1990"
+          },
+          "years": "11"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852109",
+             "name": "Naojodan Edson",
+             "country": "Varsil",
+             "birthDate": "10/11/2000"
+          },
+          "years": "2"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852110",
+             "name": "Sobornable Atilio",
+             "country": "Argensur",
+             "birthDate": "10/05/1990"
+          },
+          "years": "10"
+       },
+       {
+          "persona": {
+             "typeDNI": "PAS",
+             "DNI": "9852111",
+             "name": "Improperiah Mayorh",
+             "country": "Kamchatka",
+             "birthDate": "30/06/1995"
+          },
+          "years": "7"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852112",
+             "name": "Fallosky Todorov",
+             "country": "Rashia",
+             "birthDate": "01/08/1997"
+          },
+          "years": "11"
+       },
+       {
+          "persona": {
+             "typeDNI": "PAS",
+             "DNI": "9852113",
+             "name": "Aminoeh Nadur",
+             "country": "Turquisia",
+             "birthDate": "22/04/1988"
+          },
+          "years": "5"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852114",
+             "name": "Yokonoko TikiTaka",
+             "country": "Niponia",
+             "birthDate": "12/12/1992"
+          },
+          "years": "9"
+       },
+       {
+          "persona": {
+             "typeDNI": "PAS",
+             "DNI": "9852115",
+             "name": "Siamofuori Dallacoppa",
+             "country": "Italica",
+             "birthDate": "22/07/1990"
+          },
+          "years": "15"
+       },
+       {
+          "persona": {
+             "typeDNI": "DU",
+             "DNI": "9852116",
+             "name": "Nimiro Kiensaka",
+             "country": "Niponia",
+             "birthDate": "13/07/1997"
+          },
+          "years": "4"
+       }
+    ]
+ }
