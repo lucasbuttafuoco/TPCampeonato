@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Championship {
 
+    //preguntar como generar la tabla de posiciones. Variable ???
     private ArrayList<Zone> zonas;
 
 

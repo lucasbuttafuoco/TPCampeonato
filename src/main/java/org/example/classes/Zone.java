@@ -3,8 +3,7 @@ package org.example.classes;
 import java.util.ArrayList;
 
 public class Zone {
-    // Consultar: usamos una estructura de datos o cuatro atributos que despues
-    // ordenamos en una tabla?
+    
     private Championship actualChampionship;
     private ArrayList<Team> teams;
 
@@ -30,9 +29,4 @@ public class Zone {
     }
 
     
-
-    
-
-    // el constructor necesita que le pasemos 4 equipos que ya esten instanciados
-    // desde antes.
 }

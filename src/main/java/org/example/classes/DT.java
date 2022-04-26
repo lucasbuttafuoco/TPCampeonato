@@ -18,4 +18,10 @@ public class DT extends TeamMember{
         this.titles = titles;
     }
 
+    @Override
+    public String toString() {
+        return super.toString() + "DT [titles=" + titles + "]";
+    }
+
+    
 }

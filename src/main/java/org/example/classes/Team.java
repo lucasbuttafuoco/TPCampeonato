@@ -8,6 +8,7 @@ public class Team {
     private String country;
     private int rankingPosition;
     private Set<TeamMember> teamList;
+    //preguntar si esta bien las relaciones, un team siempre tiene una zona?
 
     public Team(String n, String c, int r) {
         name = n;
