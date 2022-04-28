@@ -1,4 +1,4 @@
-package org.example.classes;
+package org.example.models;
 
 public class Zone {
     // Consultar: usamos una estructura de datos o cuatro atributos que despues

@@ -1,9 +1,9 @@
-package org.example.classes;
+package org.example.models;
 
 import java.time.LocalDate;
 
 public class Referee extends Person {
-    public Referee(String name, LocalDate birthDate, String typeDNI, String dNI, String nationality, int years) {
+    public Referee(String name, LocalDate birthDate,String typeDNI, String dNI, String nationality, int years) {
         super(name, birthDate, typeDNI, dNI, nationality);
         this.years = years;
     }
@@ -20,8 +20,7 @@ public class Referee extends Person {
 
     @Override
     public String toString() {
-        return super.toString() + " Referee: [Years on service:" + years +"] ";
+        return super.toString() + " Referee: [Years on service:" + years + "] ";
     }
-
 
 }

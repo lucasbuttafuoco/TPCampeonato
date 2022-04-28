@@ -1,4 +1,4 @@
-package org.example.classes;
+package org.example.models;
 import java.time.LocalDate;
 
 public abstract class Person{

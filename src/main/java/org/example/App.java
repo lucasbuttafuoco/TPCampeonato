@@ -2,8 +2,8 @@ package org.example;
 
 import java.time.LocalDate;
 
-import org.example.classes.*;
 import org.example.enums.Positions;
+import org.example.models.*;
 
 class app {
     public static void main(String args[]) {
