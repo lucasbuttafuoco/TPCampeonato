@@ -1,4 +1,4 @@
-package org.example.classes;
+package FIFA.models;
 
 import java.util.HashSet;
 import java.util.Set;

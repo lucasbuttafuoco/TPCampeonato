@@ -1,6 +1,7 @@
-package org.example.classes;
+package FIFA.models;
 import java.time.LocalDate;
-import org.example.enums.*;
+
+import FIFA.enums.*;
 
 public class Player extends TeamMember {
     private Positions position;

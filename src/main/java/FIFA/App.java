@@ -1,9 +1,9 @@
-package org.example;
+package FIFA;
 
 import java.time.LocalDate;
 
-import org.example.classes.*;
-import org.example.enums.Positions;
+import FIFA.enums.Positions;
+import FIFA.models.*;
 
 class app {
     public static void main(String args[]) {
