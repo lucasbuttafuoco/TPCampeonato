@@ -56,6 +56,9 @@ public class Match {
         System.out.println(
                 "Resultado " + local.getName() + " " + localGoal + " - " + visitorGoal + " " + visitor.getName());
         System.out.println("Referi del partido: " + ref.toString());
+        
+        tablePositions.updateTable(local,localGoal,visitorGoal)
+        
         if (localGoal > visitorGoal) {
             // actualizar tabla
             System.out.println("Ganador: " + local.getName() + "\n " + local.toString());
