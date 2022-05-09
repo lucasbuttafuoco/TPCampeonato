@@ -1,6 +1,7 @@
 package FIFA.models;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.Random;
 
 public class Match {
@@ -48,16 +49,19 @@ public class Match {
         this.ref = ref;
     }
 
-    public void result() {
+    public void result(Championship championship) {
         Random randomGenerator = new Random();
         int localGoal = randomGenerator.nextInt(10);
         int visitorGoal = randomGenerator.nextInt(10);
+        ArrayList<Table> table;
 
         System.out.println(
                 "Resultado " + local.getName() + " " + localGoal + " - " + visitorGoal + " " + visitor.getName());
         System.out.println("Referi del partido: " + ref.toString());
         
-        tablePositions.updateTable(local,localGoal,visitorGoal)
+        table = championship.getTable();
+        table.indexOf(local.getName());
+        table.updateTable(local,localGoal,visitorGoal);
         
         if (localGoal > visitorGoal) {
             // actualizar tabla

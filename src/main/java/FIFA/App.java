@@ -7,6 +7,8 @@ import FIFA.models.*;
 
 class app {
     public static void main(String args[]) {
+        Championship championship = new Championship();
+        
         System.out.println("Campeonato Anual de Futbol :)");
 
         Team boquita = new Team("Boquita", "Argentina", 1);
@@ -24,7 +26,7 @@ class app {
         Referee pitana = new Referee("Nestor Pitana", LocalDate.of(1942, 3, 2), "DNI", "99012934", "Argentina", 15);
 
         Match first = new Match(LocalDate.now(), boquita,river,pitana);
-        first.result();
+        first.result(championship);
     };
 
 }
