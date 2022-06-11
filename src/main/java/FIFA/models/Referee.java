@@ -1,9 +1,8 @@
 package FIFA.models;
 
-import java.time.LocalDate;
 
 public class Referee extends Person {
-    public Referee(String name, LocalDate birthDate, String typeDNI, String dNI, String nationality, int yearsOfService) {
+    public Referee(String name, String birthDate, String typeDNI, String dNI, String nationality, int yearsOfService) {
         super(name, birthDate, typeDNI, dNI, nationality);
         this.yearsOfService = yearsOfService;
     }

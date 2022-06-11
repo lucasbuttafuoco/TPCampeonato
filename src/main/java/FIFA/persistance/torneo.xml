@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE torneo SYSTEM "torneo.dtd">
+<torneo>
+  <equipos>
+    <equipo>
+      <nombre>Velta de Cigo</nombre>
+      <pais>Hispania</pais>
+      <ranking>4</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>1234</nroDocumento>
+              <nombre>Mangalarga Juan</nombre>
+			  <pais>Hispania</pais>
+              <fechaNacimiento>30/11/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>8564</nroDocumento>
+              <nombre>Noagarrauna Pedro</nombre>
+  			  <pais>Hispania</pais>
+              <fechaNacimiento>30/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>5678</nroDocumento>
+              <nombre>Quebracho Anibal</nombre>
+			  <pais>Hispania</pais>
+              <fechaNacimiento>30/11/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>5678</nroDocumento>
+              <nombre>Nopasaras Daniel</nombre>
+			  <pais>Hispania</pais>
+              <fechaNacimiento>30/11/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>6527</nroDocumento>
+              <nombre>Rompemedias Jose</nombre>
+			  <pais>Hispania</pais>
+              <fechaNacimiento>01/11/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="3">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>9687</nroDocumento>
+              <nombre>Lentissimo Massimo</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/2005</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="9">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>2347</nroDocumento>
+              <nombre>Fortachon Abel</nombre>
+  			  <pais>Argensur</pais>			  
+              <fechaNacimiento>30/11/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>9673</nroDocumento>
+              <nombre>Impassable Gino</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>17/02/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="4">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>8791</nroDocumento>
+              <nombre>Immobile Sergei</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>17/05/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="9">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>6270</nroDocumento>
+              <nombre>HerMotor Ludwig</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/05/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>1065</nroDocumento>
+              <nombre>Gambetita Guido</nombre>
+			  <pais>Argensur</pais>
+              <fechaNacimiento>31/08/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>1065</nroDocumento>
+              <nombre>Hachabrava Fernando</nombre>
+			  <pais>Argensur</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>6064</nroDocumento>
+              <nombre>Redcard Jimmy</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>8084</nroDocumento>
+              <nombre>Laemboca Mutombo</nombre>
+			  <pais>Nigembique</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="10">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>4235</nroDocumento>
+              <nombre>Tanker Gerrard</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>3018</nroDocumento>
+              <nombre>Golito Pedro</nombre>
+			  <pais>Hispania</pais>
+              <fechaNacimiento>01/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>3717</nroDocumento>
+              <nombre>Palomito Lucio</nombre>
+			  <pais>Hispania</pais>
+              <fechaNacimiento>01/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>2879</nroDocumento>
+              <nombre>Golentra Ettore</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/2001</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>9687</nroDocumento>
+            <nombre>Orchestra Luigi</nombre>
+			<pais>Italica</pais>
+            <fechaNacimiento>06/06/2005</fechaNacimiento>          
+          </persona>
+          <titulosObtenidos>15</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+    <equipo>
+      <nombre>Perrissimos</nombre>
+      <pais>Italica</pais>
+      <ranking>98</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="3">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>11111</nroDocumento>
+              <nombre>Agujeretti Lino</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="2">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>22222</nroDocumento>
+              <nombre>Sinmanno Renzo</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>33333</nroDocumento>
+              <nombre>Lastimosso Victor</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="2">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>44444</nroDocumento>
+              <nombre>Accalambra Dino</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>55555</nroDocumento>
+              <nombre>Nullo Giussepe</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/11/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>66666</nroDocumento>
+              <nombre>Tragaterra Lucio</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/2005</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>77777</nroDocumento>
+              <nombre>Horripile Genaro</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="3">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>88888</nroDocumento>
+              <nombre>Dessanimo Elisseo</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>17/02/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="2">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>99999</nroDocumento>
+              <nombre>Disastroso Silvio</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>17/05/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="1">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>10101</nroDocumento>
+              <nombre>Disorientato Nello</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/05/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>10110</nroDocumento>
+              <nombre>Calammitosso Perluigi</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/08/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>10120</nroDocumento>
+              <nombre>Tronco Daniele</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="4">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>10130</nroDocumento>
+              <nombre>Torppe Riccardo</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="2">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>10140</nroDocumento>
+              <nombre>Vagabondaggio Pio</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="1">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>10150</nroDocumento>
+              <nombre>Falluto Damian</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="2">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>10160</nroDocumento>
+              <nombre>GolMancato Piero</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>10170</nroDocumento>
+              <nombre>Ineficacce Mario</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="3">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>10180</nroDocumento>
+              <nombre>Pinocchio Geppetto</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/2001</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>10190</nroDocumento>
+            <nombre>Perdettore Carmelo</nombre>
+			<pais>Italica</pais>
+            <fechaNacimiento>06/06/1945</fechaNacimiento>
+          </persona>
+          <titulosObtenidos>0</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+    <equipo>
+      <nombre>Munchi</nombre>
+      <pais>Germanecia</pais>
+      <ranking>1</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21211</nroDocumento>
+              <nombre>Atajen Karl</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>30/11/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21212</nroDocumento>
+              <nombre>Agarren Franz</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>30/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21213</nroDocumento>
+              <nombre>Denfenden Otto</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>30/11/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21214</nroDocumento>
+              <nombre>Rechacen Klaus</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>30/11/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21215</nroDocumento>
+              <nombre>Mediocrem Erik</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>01/11/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>21216</nroDocumento>
+              <nombre>Pataduren Ludwig</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>30/11/2005</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21217</nroDocumento>
+              <nombre>Excellentem Gerrard</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>30/11/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>21218</nroDocumento>
+              <nombre>Marken Kurt</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>17/02/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="9">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>21219</nroDocumento>
+              <nombre>Robben Gunter</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>17/05/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>212110</nroDocumento>
+              <nombre>Noselaquiten Adolf</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/05/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>212111</nroDocumento>
+              <nombre>Pulpen Igor</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/08/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>212112</nroDocumento>
+              <nombre>Todoterrenen Lottar</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>212113</nroDocumento>
+              <nombre>Delicatessen Hubert</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="8">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>212114</nroDocumento>
+              <nombre>Relojiten Peter</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>212115</nroDocumento>
+              <nombre>Embokken Darius</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>212116</nroDocumento>
+              <nombre>Implakablen Matteus</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>01/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>212117</nroDocumento>
+              <nombre>Efikacen Norman</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>01/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>212118</nroDocumento>
+              <nombre>Goleatorem Kunz</nombre>
+			  <pais>Germanecia</pais>
+              <fechaNacimiento>01/03/2001</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>212119</nroDocumento>
+            <nombre>Triumffen Otto</nombre>
+			<pais>Germanecia</pais>
+            <fechaNacimiento>06/06/1945</fechaNacimiento>
+          </persona>
+          <titulosObtenidos>19</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+    <equipo>
+      <nombre>Eleven Woods</nombre>
+      <pais>Britanilandia</pais>
+      <ranking>40</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313001</nroDocumento>
+              <nombre>Everygoal John</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>30/11/1981</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313002</nroDocumento>
+              <nombre>Sillyhands Donald</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>30/03/2002</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313003</nroDocumento>
+              <nombre>Footloose Richard</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>30/11/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313004</nroDocumento>
+              <nombre>BigWall Hugh</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>30/11/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313005</nroDocumento>
+              <nombre>Doubt Miller</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>01/11/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>313006</nroDocumento>
+              <nombre>Hatcher Lewis</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>30/11/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313007</nroDocumento>
+              <nombre>Impassable Jeff</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>30/11/2001</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313008</nroDocumento>
+              <nombre>IsGood Cleant</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>17/02/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="9">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>313009</nroDocumento>
+              <nombre>Hunter Robert</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>17/05/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313010</nroDocumento>
+              <nombre>Greatplayer Tim</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/05/1982</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313011</nroDocumento>
+              <nombre>Marker Grant</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/08/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313012</nroDocumento>
+              <nombre>Breakbones Todd</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/01/2004</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>313013</nroDocumento>
+              <nombre>Dribbler Sean</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/01/2002</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="3">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>313014</nroDocumento>
+              <nombre>Bad Scorer Jimmy</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/03/1988</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="5">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>313015</nroDocumento>
+              <nombre>Trickster Max</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>31/03/1990</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313016</nroDocumento>
+              <nombre>Cheater Mark</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>01/03/1992</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313017</nroDocumento>
+              <nombre>Donkey Charles</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>01/03/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>313018</nroDocumento>
+              <nombre>Poor Julien</nombre>
+			  <pais>Britanilandia</pais>
+              <fechaNacimiento>01/03/1991</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>313019</nroDocumento>
+            <nombre>Idontknow Chris</nombre>
+			<pais>Scotia</pais>
+            <fechaNacimiento>26/06/1960</fechaNacimiento>
+          </persona>          
+          <titulosObtenidos>2</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+    <equipo>
+      <nombre>Les Petits Coqs</nombre>
+      <pais>Franchuteland</pais>
+      <ranking>10</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413001</nroDocumento>
+              <nombre>Arqueraux Lille</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>30/11/1980</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413002</nroDocumento>
+              <nombre>JeSuisUnFromage Rene</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>30/03/1978</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413003</nroDocumento>
+              <nombre>LeMarchandPepine Pierre</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>30/11/1979</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413004</nroDocumento>
+              <nombre>Bastille Kilyan</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>30/11/1988</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413005</nroDocumento>
+              <nombre>CaféAuLait Francois</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>01/11/1991</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>413006</nroDocumento>
+              <nombre>Lepiffie Louis</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>30/11/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413007</nroDocumento>
+              <nombre>Infranchissable Napoleon</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>30/11/1990</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413008</nroDocumento>
+              <nombre>Qualifié Bertrand</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>17/02/1992</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="8">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>413009</nroDocumento>
+              <nombre>Capitaine Charles</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>17/05/1991</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413010</nroDocumento>
+              <nombre>TrésMagnifique Eric</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>31/05/1980</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413011</nroDocumento>
+              <nombre>Firulais Jacques</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>31/08/1989</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413012</nroDocumento>
+              <nombre>Squelette Alain</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>31/01/1988</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>413013</nroDocumento>
+              <nombre>PiedGrand Philippe </nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>31/01/1987</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="8">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>413014</nroDocumento>
+              <nombre>Brillanté Vincent</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>31/03/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="7">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>413015</nroDocumento>
+              <nombre>LaPeine Yves</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>31/03/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413016</nroDocumento>
+              <nombre>Glorieux Guillaume </nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>01/03/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413017</nroDocumento>
+              <nombre>Goleadoreau Gilles</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>01/03/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>413018</nroDocumento>
+              <nombre>Optimiste Jean-Paul</nombre>
+			  <pais>Franchuteland</pais>
+              <fechaNacimiento>01/03/1992</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>413019</nroDocumento>
+            <nombre>Visionnaire Arnoux</nombre>
+			<pais>Franchuteland</pais>
+            <fechaNacimiento>26/06/1956</fechaNacimiento>
+          </persona>
+          <titulosObtenidos>8</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+    
+    <equipo>
+      <nombre>Tanos Coraggiosi</nombre>
+      <pais>Italica</pais>
+      <ranking>9</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500001</nroDocumento>
+              <nombre>Immortale Luiggi</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500002</nroDocumento>
+              <nombre>BuonPortiere Dino</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/03/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500003</nroDocumento>
+              <nombre>CorreVeloce Aldo</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/2003</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500004</nroDocumento>
+              <nombre>Rabbioso Furius</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500005</nroDocumento>
+              <nombre>Arrabbiato Siro</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/11/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>500006</nroDocumento>
+              <nombre>FelinoFeroce Gattuso</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500007</nroDocumento>
+              <nombre>Imperatore Antonio</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>30/11/2001</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500008</nroDocumento>
+              <nombre>Sensazionale Luca</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>17/02/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="9">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>500009</nroDocumento>
+              <nombre>Capitano Celestino</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>17/05/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="8">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500010</nroDocumento>
+              <nombre>Firuleto Adriano</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/05/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500011</nroDocumento>
+              <nombre>Vittorioso Vittorio</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/08/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500012</nroDocumento>
+              <nombre>Affascinante Pino</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/01/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>500013</nroDocumento>
+              <nombre>Piccolo Capo Leo</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/01/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="8">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>500014</nroDocumento>
+              <nombre>Vincitore Toni</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/03/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="9">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>500015</nroDocumento>
+              <nombre>Spettacolare Andrea</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>31/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500016</nroDocumento>
+              <nombre>Grosso Nicola</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/2002</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500017</nroDocumento>
+              <nombre>Cannonieri Gianni</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>500018</nroDocumento>
+              <nombre>Pericoloso Giocatore</nombre>
+			  <pais>Italica</pais>
+              <fechaNacimiento>01/03/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>500019</nroDocumento>
+            <nombre>Ossessivo Salvatore</nombre>
+			<pais>Italica</pais>
+            <fechaNacimiento>06/06/1969</fechaNacimiento>
+          </persona>
+          <titulosObtenidos>19</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+    <equipo>
+      <nombre>Anime Football Club</nombre>
+      <pais>Niponia</pais>
+      <ranking>33</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605401</nroDocumento>
+              <nombre>Nopara Ninguna</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>30/11/1981</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605402</nroDocumento>
+              <nombre>Sakala Sugita</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>30/03/2002</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="3">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605403</nroDocumento>
+              <nombre>Osaka Opone</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>30/11/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605404</nroDocumento>
+              <nombre>Nikita Nipone</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>30/11/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605405</nroDocumento>
+              <nombre>Sato Hamachi</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>01/11/1994</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>605406</nroDocumento>
+              <nombre>Moto Kawasaki</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>30/11/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605407</nroDocumento>
+              <nombre>Notira Pase</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>30/11/2001</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605408</nroDocumento>
+              <nombre>Kamachi Salata</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>17/02/1999</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="4">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>605409</nroDocumento>
+              <nombre>Kami Kaze</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>17/05/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605410</nroDocumento>
+              <nombre>Samu Rai</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>31/05/1982</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605411</nroDocumento>
+              <nombre>Kimono Fuyima</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>31/08/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="7">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605412</nroDocumento>
+              <nombre>Ketira Kaño</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>31/01/2004</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>605413</nroDocumento>
+              <nombre>Miyazaki Miyamoto</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>31/01/2002</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>605414</nroDocumento>
+              <nombre>Toriyama Watanabe</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>31/03/1988</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="3">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>605415</nroDocumento>
+              <nombre>Hirohito Abe</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>31/03/1990</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605416</nroDocumento>
+              <nombre>Hirakinawa Kapo</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>01/03/1992</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605417</nroDocumento>
+              <nombre>Utagawa Nobunaga</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>01/03/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>605418</nroDocumento>
+              <nombre>Yoritomo Osaka</nombre>
+			  <pais>Niponia</pais>
+              <fechaNacimiento>01/03/1991</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>605419</nroDocumento>
+            <nombre>Minamoto Kento</nombre>
+			<pais>Niponia</pais>
+            <fechaNacimiento>26/06/1960</fechaNacimiento>
+          </persona>
+          <titulosObtenidos>1</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>   
+    <equipo>
+      <nombre>Otomano Spor</nombre>
+      <pais>Turquisia</pais>
+      <ranking>60</ranking>
+      <plantel>
+        <jugadores>
+          <jugador posicion="arquero" puntuacion="2">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235101</nroDocumento>
+              <nombre>Ahivalabola Atajala</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>30/11/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="arquero"  puntuacion="1">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235102</nroDocumento>
+              <nombre>Nowante Emir</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>30/03/1991</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235103</nroDocumento>
+              <nombre>Perrak Ozil</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>27/03/1990</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235104</nroDocumento>
+              <nombre>Sentadat Dere</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>30/11/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="3">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235105</nroDocumento>
+              <nombre>Fracasoduc Igor</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>01/11/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="2">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>235106</nroDocumento>
+              <nombre>Maderak Engin</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>30/11/1985</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="1">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235107</nroDocumento>
+              <nombre>Lentorkan Fazil</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>30/11/1987</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="defensor" puntuacion="3">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235108</nroDocumento>
+              <nombre>Mepasan Todosk</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>17/02/1984</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="5">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>235109</nroDocumento>
+              <nombre>Nolaveok Engin</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>17/05/1996</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235110</nroDocumento>
+              <nombre>Desastrek Burak</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>31/05/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="5">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235111</nroDocumento>
+              <nombre>Burako Sangu</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>31/08/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235112</nroDocumento>
+              <nombre>Asperok Burat</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>31/01/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="mediocampista" puntuacion="5">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>235113</nroDocumento>
+              <nombre>Brutan Tarkan</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>31/01/1998</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>235114</nroDocumento>
+              <nombre>Rustika Kerem</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>31/03/1993</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>PAS</tipoDocumento>
+              <nroDocumento>235115</nroDocumento>
+              <nombre>Akino Pasarat</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>31/03/1989</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235116</nroDocumento>
+              <nombre>Nokorrol Unal</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>01/03/1995</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="6">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235117</nroDocumento>
+              <nombre>Kietorul Furkan</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>01/03/1997</fechaNacimiento>
+            </persona>
+          </jugador>
+          <jugador posicion="delantero" puntuacion="4">
+            <persona>
+              <tipoDocumento>DU</tipoDocumento>
+              <nroDocumento>235118</nroDocumento>
+              <nombre>Malo Conganas</nombre>
+			  <pais>Turquisia</pais>
+              <fechaNacimiento>01/03/2000</fechaNacimiento>
+            </persona>
+          </jugador>
+        </jugadores>
+        <dt>
+          <persona>
+            <tipoDocumento>DU</tipoDocumento>
+            <nroDocumento>235119</nroDocumento>
+            <nombre>Vamok Patras</nombre>
+			<pais>Turquisia</pais>
+            <fechaNacimiento>06/06/1968</fechaNacimiento>
+          </persona>
+          <titulosObtenidos>25</titulosObtenidos>
+        </dt>
+      </plantel>
+    </equipo>
+  </equipos>
+  <arbitros>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852101</nroDocumento>
+        <nombre>Silbado Ariel</nombre>
+		    <pais>Argensur</pais>
+        <fechaNacimiento>30/11/1970</fechaNacimiento>
+      </persona>
+      <aniosReferato>20</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852102</nroDocumento>
+        <nombre>Magoo Mr</nombre>
+		<pais>Britanilandia</pais>
+        <fechaNacimiento>30/11/1991</fechaNacimiento>
+      </persona>      
+      <aniosReferato>15</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>PAS</tipoDocumento>
+        <nroDocumento>9852103</nroDocumento>
+        <nombre>SigaSiga Yonoví</nombre>
+		<pais>Nigembique</pais>
+        <fechaNacimiento>10/03/2000</fechaNacimiento>
+      </persona>      
+      <aniosReferato>3</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852104</nroDocumento>
+        <nombre>Easyredcard John</nombre>
+		<pais>Britanilandia</pais>
+        <fechaNacimiento>21/08/1982</fechaNacimiento>
+      </persona>    
+      <aniosReferato>14</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852105</nroDocumento>
+        <nombre>Furias Pedro</nombre>
+		<pais>Hispania</pais>
+        <fechaNacimiento>15/12/1982</fechaNacimiento>
+      </persona>      
+      <aniosReferato>13</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>PAS</tipoDocumento>
+        <nroDocumento>9852106</nroDocumento>
+        <nombre>Inflessibile Petreo</nombre>
+		<pais>Italica</pais>
+        <fechaNacimiento>20/11/1998</fechaNacimiento>
+      </persona>      
+      <aniosReferato>13</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852107</nroDocumento>
+        <nombre>Expulssen Rojen</nombre>
+		<pais>Germanecia</pais>
+        <fechaNacimiento>10/03/1986</fechaNacimiento>
+      </persona>      
+      <aniosReferato>25</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>PAS</tipoDocumento>
+        <nroDocumento>9852108</nroDocumento>
+        <nombre>Rebbobinen Rewind</nombre>
+		<pais>Germanecia</pais>
+        <fechaNacimiento>10/01/1990</fechaNacimiento>
+      </persona>      
+      <aniosReferato>11</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852109</nroDocumento>
+        <nombre>Naojodan Edson</nombre>
+		<pais>Varsil</pais>
+        <fechaNacimiento>10/11/2000</fechaNacimiento>
+      </persona>      
+      <aniosReferato>2</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852110</nroDocumento>
+        <nombre>Sobornable Atilio</nombre>
+		<pais>Argensur</pais>
+        <fechaNacimiento>10/05/1990</fechaNacimiento>
+      </persona>      
+      <aniosReferato>10</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>PAS</tipoDocumento>
+        <nroDocumento>9852111</nroDocumento>
+        <nombre>Improperiah Mayorh</nombre>
+		<pais>Kamchatka</pais>
+        <fechaNacimiento>30/06/1995</fechaNacimiento>
+      </persona>      
+      <aniosReferato>7</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852112</nroDocumento>
+        <nombre>Fallosky Todorov</nombre>
+		<pais>Rashia</pais>
+        <fechaNacimiento>01/08/1997</fechaNacimiento>
+      </persona>      
+      <aniosReferato>11</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>PAS</tipoDocumento>
+        <nroDocumento>9852113</nroDocumento>
+        <nombre>Aminoeh Nadur</nombre>
+		<pais>Turquisia</pais>
+        <fechaNacimiento>22/04/1988</fechaNacimiento>
+      </persona>      
+      <aniosReferato>5</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852114</nroDocumento>
+        <nombre>Yokonoko TikiTaka</nombre>
+		<pais>Niponia</pais>
+        <fechaNacimiento>12/12/1992</fechaNacimiento>
+      </persona>      
+      <aniosReferato>9</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>PAS</tipoDocumento>
+        <nroDocumento>9852115</nroDocumento>
+        <nombre>Siamofuori Dallacoppa</nombre>
+		<pais>Italica</pais>
+        <fechaNacimiento>22/07/1990</fechaNacimiento>
+      </persona>      
+      <aniosReferato>15</aniosReferato>
+    </arbitro>
+    <arbitro>
+      <persona>
+        <tipoDocumento>DU</tipoDocumento>
+        <nroDocumento>9852116</nroDocumento>
+        <nombre>Nimiro Kiensaka</nombre>
+		<pais>Niponia</pais>
+        <fechaNacimiento>13/07/1997</fechaNacimiento>
+      </persona>      
+      <aniosReferato>4</aniosReferato>
+    </arbitro>
+  </arbitros>
+</torneo>

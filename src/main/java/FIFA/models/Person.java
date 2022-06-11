@@ -1,14 +1,13 @@
 package FIFA.models;
-import java.time.LocalDate;
 
 public abstract class Person{
     private String name;
-    private LocalDate birthDate;
+    private String birthDate;
     private String typeDNI;
     private String DNI;
     private String nationality;
 
-    public Person(String name, LocalDate birthDate, String typeDNI, String dNI, String nationality) {
+    public Person(String name, String birthDate, String typeDNI, String dNI, String nationality) {
         this.name = name;
         this.birthDate = birthDate;
         this.typeDNI = typeDNI;
@@ -24,11 +23,11 @@ public abstract class Person{
         this.name = name;
     }
 
-    public LocalDate getBirthDate() {
+    public String getBirthDate() {
         return birthDate;
     }
 
-    public void setBirthDate(LocalDate birthDate) {
+    public void setBirthDate(String birthDate) {
         this.birthDate = birthDate;
     }
 

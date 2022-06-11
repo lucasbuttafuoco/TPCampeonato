@@ -1,9 +1,8 @@
 package FIFA.models;
 
-import java.time.LocalDate;
 
 public class DT extends TeamMember{
-    public DT(String name, LocalDate birthDate, String typeDNI, String dNI, String nationality, Team actualTeam, int titles) {
+    public DT(String name, String birthDate, String typeDNI, String dNI, String nationality, String actualTeam, int titles) {
         super(name, birthDate, typeDNI, dNI, nationality, actualTeam);
         this.titles=titles;
     }
