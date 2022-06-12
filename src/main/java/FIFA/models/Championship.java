@@ -1,43 +1,46 @@
 package FIFA.models;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 
 public class Championship {
+    private List<Zone> zones;
+    private ArrayList<TableComponent> positionTable;
 
-    //preguntar como generar la tabla de posiciones. Variable ???
-    private ArrayList<Zone> zonas;
-    public ArrayList<Table> table;
-
-    public Championship() {
-    }
-
-    public Championship(ArrayList<Zone> zonas, ArrayList<Table> table) {
-        this.zonas = zonas;
-        this.table = table;
+    public Championship(List<Zone> zones, ArrayList<Team> teams) {
+        this.positionTable = createPositionTable(teams);
+        this.zones = zones;
     }
 
 
-    public ArrayList<Zone> getZonas() {
-        return zonas;
+    public List<Zone> getZones() {
+        return zones;
     }
 
 
-    public void setZonas(ArrayList<Zone> zonas) {
-        this.zonas = zonas;
+    public void setZones(List<Zone> zonas) {
+        this.zones = zonas;
     }
 
 
-    public ArrayList<Table> getTable() {
-        return table;
+    public ArrayList<TableComponent> getTable() {
+        return positionTable;
     }
 
-
-    public void setTable(ArrayList<Table> table) {
-        this.table = table;
+    private ArrayList<TableComponent> createPositionTable(ArrayList<Team> teams){
+        positionTable=new ArrayList<TableComponent>();
+        for (int i= 0 ; i < teams.size(); i++){
+            TableComponent e = new TableComponent(teams.get(i).getName());
+            positionTable.add(e);
+        }
+        return positionTable;
     }
-    
-    
 
-    
+    public void updatePositionTable(ArrayList<TableComponent> positionTable){
+        Collections.sort(positionTable,Collections.reverseOrder());
+        
+    }
+
 }

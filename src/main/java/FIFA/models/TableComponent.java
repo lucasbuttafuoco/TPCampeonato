@@ -1,17 +1,17 @@
 package FIFA.models;
 
-public class Table {
-    private int points;
+public class TableComponent implements Comparable<TableComponent>{
+    private Integer points;
     private String teamName;
     private int matchsPlayed;
     private int matchsWinned;
     private int matchsTied;
     private int matchsLost;
-    private int goals;
+    private Integer goals;
     private int goalsAgainst;
-    private int goalsDifference;
+    private Integer goalsDifference;
 
-    public Table(String teamName) {
+    public TableComponent(String teamName) {
         this.points = 0;
         this.teamName = teamName;
         this.matchsPlayed = 0;
@@ -77,12 +77,24 @@ public class Table {
         this.goals+=goals;
         goalsAgainst+=goalsReceieved;
         goalsDifference=this.goals-goalsAgainst;
+        
     }
-    
 
-    
-
-
-
-
+    @Override
+    public int compareTo(TableComponent o) {
+        int result=this.points.compareTo(o.points);
+        Integer resGoalsDif = 0;
+        if(result == 0){
+            resGoalsDif = this.goalsDifference.compareTo(o.goalsDifference);
+            if(resGoalsDif == 0){
+                return this.goals.compareTo(o.goals);
+            }
+            else{
+                return resGoalsDif;
+            }    
+        }
+        else{
+            return result;
+        }      
+    }
 }

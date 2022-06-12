@@ -7,7 +7,7 @@ public abstract class TeamMember extends Person {
 
     public TeamMember(String name, String birthDate, String typeDNI, String dNI, String nationality, String pais) {
         super(name, birthDate, typeDNI, dNI, nationality);
-        this.actualTeam = pais; //se tendria que crear primero el team obligatoriamente
+        this.actualTeam = pais;
     }
 
     public String getActualTeam() {
