@@ -2,19 +2,21 @@
 <!ELEMENT torneo (equipos, arbitros)>
 <!ELEMENT equipos (equipo+)> 
 <!ELEMENT equipo (nombre, pais, ranking, plantel)> 
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
 <!ELEMENT plantel (jugadores, dt+)> 
 <!ELEMENT jugadores (jugador+)> 
 <!ELEMENT jugador (persona)> 
 <!ELEMENT dt (persona, titulosObtenidos)> 
 <!ELEMENT arbitros (arbitro*)> 
 <!ELEMENT arbitro (persona, aniosReferato)> 
-<!ELEMENT persona (tipoDocumento, nroDocumento, nombre, pais, fechaNacimiento)> 
+<!ELEMENT persona (tipoDocumento, nroDocumento, nombrex, paisx, fechaNacimiento)> 
 <!ELEMENT tipoDocumento (#PCDATA)>
 <!ELEMENT nroDocumento (#PCDATA)>
-<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT nombrex (#PCDATA)>
 <!ELEMENT fechaNacimiento (#PCDATA)>
 <!ELEMENT puntuacion (#PCDATA)>
-<!ELEMENT pais (#PCDATA)>
+<!ELEMENT paisx (#PCDATA)>
 <!ELEMENT aniosReferato (#PCDATA)>
 <!ELEMENT titulosObtenidos (#PCDATA)>
 <!ELEMENT ranking (#PCDATA)>

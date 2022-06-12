@@ -12,8 +12,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>1234</nroDocumento>
-              <nombre>Mangalarga Juan</nombre>
-			  <pais>Hispania</pais>
+              <nombrex>Mangalarga Juan</nombrex>
+			        <paisx>Hispania</paisx>
               <fechaNacimiento>30/11/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -21,8 +21,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>8564</nroDocumento>
-              <nombre>Noagarrauna Pedro</nombre>
-  			  <pais>Hispania</pais>
+              <nombrex>Noagarrauna Pedro</nombrex>
+  			      <paisx>Hispania</paisx>
               <fechaNacimiento>30/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -30,8 +30,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>5678</nroDocumento>
-              <nombre>Quebracho Anibal</nombre>
-			  <pais>Hispania</pais>
+              <nombrex>Quebracho Anibal</nombrex>
+			        <paisx>Hispania</paisx>
               <fechaNacimiento>30/11/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -39,8 +39,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>5678</nroDocumento>
-              <nombre>Nopasaras Daniel</nombre>
-			  <pais>Hispania</pais>
+              <nombrex>Nopasaras Daniel</nombrex>
+			        <paisx>Hispania</paisx>
               <fechaNacimiento>30/11/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -48,8 +48,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>6527</nroDocumento>
-              <nombre>Rompemedias Jose</nombre>
-			  <pais>Hispania</pais>
+              <nombrex>Rompemedias Jose</nombrex>
+			        <paisx>Hispania</paisx>
               <fechaNacimiento>01/11/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -57,8 +57,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>9687</nroDocumento>
-              <nombre>Lentissimo Massimo</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Lentissimo Massimo</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/2005</fechaNacimiento>
             </persona>
           </jugador>
@@ -66,8 +66,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>2347</nroDocumento>
-              <nombre>Fortachon Abel</nombre>
-  			  <pais>Argensur</pais>			  
+              <nombrex>Fortachon Abel</nombrex>
+  			      <paisx>Argensur</paisx>			  
               <fechaNacimiento>30/11/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -75,8 +75,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>9673</nroDocumento>
-              <nombre>Impassable Gino</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Impassable Gino</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>17/02/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -84,8 +84,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>8791</nroDocumento>
-              <nombre>Immobile Sergei</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Immobile Sergei</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>17/05/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -93,8 +93,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>6270</nroDocumento>
-              <nombre>HerMotor Ludwig</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>HerMotor Ludwig</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/05/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -102,8 +102,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>1065</nroDocumento>
-              <nombre>Gambetita Guido</nombre>
-			  <pais>Argensur</pais>
+              <nombrex>Gambetita Guido</nombrex>
+  			      <paisx>Argensur</paisx>
               <fechaNacimiento>31/08/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -111,8 +111,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>1065</nroDocumento>
-              <nombre>Hachabrava Fernando</nombre>
-			  <pais>Argensur</pais>
+              <nombrex>Hachabrava Fernando</nombrex>
+  			      <paisx>Argensur</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -120,8 +120,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>6064</nroDocumento>
-              <nombre>Redcard Jimmy</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Redcard Jimmy</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -129,8 +129,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>8084</nroDocumento>
-              <nombre>Laemboca Mutombo</nombre>
-			  <pais>Nigembique</pais>
+              <nombrex>Laemboca Mutombo</nombrex>
+  			      <paisx>Nigembique</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -138,8 +138,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>4235</nroDocumento>
-              <nombre>Tanker Gerrard</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Tanker Gerrard</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -147,8 +147,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>3018</nroDocumento>
-              <nombre>Golito Pedro</nombre>
-			  <pais>Hispania</pais>
+              <nombrex>Golito Pedro</nombrex>
+			        <paisx>Hispania</paisx>
               <fechaNacimiento>01/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -156,8 +156,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>3717</nroDocumento>
-              <nombre>Palomito Lucio</nombre>
-			  <pais>Hispania</pais>
+              <nombrex>Palomito Lucio</nombrex>
+  			      <paisx>Hispania</paisx>
               <fechaNacimiento>01/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -165,8 +165,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>2879</nroDocumento>
-              <nombre>Golentra Ettore</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Golentra Ettore</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/2001</fechaNacimiento>
             </persona>
           </jugador>
@@ -175,8 +175,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>9687</nroDocumento>
-            <nombre>Orchestra Luigi</nombre>
-			<pais>Italica</pais>
+            <nombrex>Orchestra Luigi</nombrex>
+			      <paisx>Italica</paisx>
             <fechaNacimiento>06/06/2005</fechaNacimiento>          
           </persona>
           <titulosObtenidos>15</titulosObtenidos>
@@ -193,8 +193,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>11111</nroDocumento>
-              <nombre>Agujeretti Lino</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Agujeretti Lino</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -202,8 +202,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>22222</nroDocumento>
-              <nombre>Sinmanno Renzo</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Sinmanno Renzo</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -211,8 +211,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>33333</nroDocumento>
-              <nombre>Lastimosso Victor</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Lastimosso Victor</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -220,8 +220,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>44444</nroDocumento>
-              <nombre>Accalambra Dino</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Accalambra Dino</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -229,8 +229,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>55555</nroDocumento>
-              <nombre>Nullo Giussepe</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Nullo Giussepe</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/11/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -238,8 +238,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>66666</nroDocumento>
-              <nombre>Tragaterra Lucio</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Tragaterra Lucio</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/2005</fechaNacimiento>
             </persona>
           </jugador>
@@ -247,8 +247,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>77777</nroDocumento>
-              <nombre>Horripile Genaro</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Horripile Genaro</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -256,8 +256,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>88888</nroDocumento>
-              <nombre>Dessanimo Elisseo</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Dessanimo Elisseo</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>17/02/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -265,8 +265,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>99999</nroDocumento>
-              <nombre>Disastroso Silvio</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Disastroso Silvio</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>17/05/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -274,8 +274,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>10101</nroDocumento>
-              <nombre>Disorientato Nello</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Disorientato Nello</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/05/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -283,8 +283,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>10110</nroDocumento>
-              <nombre>Calammitosso Perluigi</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Calammitosso Perluigi</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/08/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -292,8 +292,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>10120</nroDocumento>
-              <nombre>Tronco Daniele</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Tronco Daniele</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -301,8 +301,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>10130</nroDocumento>
-              <nombre>Torppe Riccardo</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Torppe Riccardo</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -310,8 +310,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>10140</nroDocumento>
-              <nombre>Vagabondaggio Pio</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Vagabondaggio Pio</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -319,8 +319,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>10150</nroDocumento>
-              <nombre>Falluto Damian</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Falluto Damian</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -328,8 +328,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>10160</nroDocumento>
-              <nombre>GolMancato Piero</nombre>
-			  <pais>Italica</pais>
+              <nombrex>GolMancato Piero</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -337,8 +337,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>10170</nroDocumento>
-              <nombre>Ineficacce Mario</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Ineficacce Mario</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -346,8 +346,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>10180</nroDocumento>
-              <nombre>Pinocchio Geppetto</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Pinocchio Geppetto</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/2001</fechaNacimiento>
             </persona>
           </jugador>
@@ -356,8 +356,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>10190</nroDocumento>
-            <nombre>Perdettore Carmelo</nombre>
-			<pais>Italica</pais>
+            <nombrex>Perdettore Carmelo</nombrex>
+			      <paisx>Italica</paisx>
             <fechaNacimiento>06/06/1945</fechaNacimiento>
           </persona>
           <titulosObtenidos>0</titulosObtenidos>
@@ -374,8 +374,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21211</nroDocumento>
-              <nombre>Atajen Karl</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Atajen Karl</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>30/11/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -383,8 +383,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21212</nroDocumento>
-              <nombre>Agarren Franz</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Agarren Franz</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>30/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -392,8 +392,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21213</nroDocumento>
-              <nombre>Denfenden Otto</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Denfenden Otto</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>30/11/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -401,8 +401,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21214</nroDocumento>
-              <nombre>Rechacen Klaus</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Rechacen Klaus</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>30/11/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -410,8 +410,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21215</nroDocumento>
-              <nombre>Mediocrem Erik</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Mediocrem Erik</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>01/11/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -419,8 +419,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>21216</nroDocumento>
-              <nombre>Pataduren Ludwig</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Pataduren Ludwig</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>30/11/2005</fechaNacimiento>
             </persona>
           </jugador>
@@ -428,8 +428,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21217</nroDocumento>
-              <nombre>Excellentem Gerrard</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Excellentem Gerrard</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>30/11/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -437,8 +437,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>21218</nroDocumento>
-              <nombre>Marken Kurt</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Marken Kurt</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>17/02/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -446,8 +446,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>21219</nroDocumento>
-              <nombre>Robben Gunter</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Robben Gunter</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>17/05/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -455,8 +455,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>212110</nroDocumento>
-              <nombre>Noselaquiten Adolf</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Noselaquiten Adolf</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/05/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -464,8 +464,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>212111</nroDocumento>
-              <nombre>Pulpen Igor</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Pulpen Igor</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/08/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -473,8 +473,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>212112</nroDocumento>
-              <nombre>Todoterrenen Lottar</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Todoterrenen Lottar</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -482,8 +482,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>212113</nroDocumento>
-              <nombre>Delicatessen Hubert</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Delicatessen Hubert</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -491,8 +491,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>212114</nroDocumento>
-              <nombre>Relojiten Peter</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Relojiten Peter</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -500,8 +500,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>212115</nroDocumento>
-              <nombre>Embokken Darius</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Embokken Darius</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -509,8 +509,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>212116</nroDocumento>
-              <nombre>Implakablen Matteus</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Implakablen Matteus</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>01/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -518,8 +518,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>212117</nroDocumento>
-              <nombre>Efikacen Norman</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Efikacen Norman</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>01/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -527,8 +527,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>212118</nroDocumento>
-              <nombre>Goleatorem Kunz</nombre>
-			  <pais>Germanecia</pais>
+              <nombrex>Goleatorem Kunz</nombrex>
+  			      <paisx>Germanecia</paisx>
               <fechaNacimiento>01/03/2001</fechaNacimiento>
             </persona>
           </jugador>
@@ -537,8 +537,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>212119</nroDocumento>
-            <nombre>Triumffen Otto</nombre>
-			<pais>Germanecia</pais>
+            <nombrex>Triumffen Otto</nombrex>
+			      <paisx>Germanecia</paisx>
             <fechaNacimiento>06/06/1945</fechaNacimiento>
           </persona>
           <titulosObtenidos>19</titulosObtenidos>
@@ -555,8 +555,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313001</nroDocumento>
-              <nombre>Everygoal John</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Everygoal John</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>30/11/1981</fechaNacimiento>
             </persona>
           </jugador>
@@ -564,8 +564,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313002</nroDocumento>
-              <nombre>Sillyhands Donald</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Sillyhands Donald</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>30/03/2002</fechaNacimiento>
             </persona>
           </jugador>
@@ -573,8 +573,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313003</nroDocumento>
-              <nombre>Footloose Richard</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Footloose Richard</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>30/11/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -582,8 +582,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313004</nroDocumento>
-              <nombre>BigWall Hugh</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>BigWall Hugh</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>30/11/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -591,8 +591,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313005</nroDocumento>
-              <nombre>Doubt Miller</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Doubt Miller</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>01/11/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -600,8 +600,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>313006</nroDocumento>
-              <nombre>Hatcher Lewis</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Hatcher Lewis</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>30/11/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -609,8 +609,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313007</nroDocumento>
-              <nombre>Impassable Jeff</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Impassable Jeff</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>30/11/2001</fechaNacimiento>
             </persona>
           </jugador>
@@ -618,8 +618,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313008</nroDocumento>
-              <nombre>IsGood Cleant</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>IsGood Cleant</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>17/02/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -627,8 +627,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>313009</nroDocumento>
-              <nombre>Hunter Robert</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Hunter Robert</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>17/05/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -636,8 +636,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313010</nroDocumento>
-              <nombre>Greatplayer Tim</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Greatplayer Tim</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/05/1982</fechaNacimiento>
             </persona>
           </jugador>
@@ -645,8 +645,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313011</nroDocumento>
-              <nombre>Marker Grant</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Marker Grant</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/08/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -654,8 +654,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313012</nroDocumento>
-              <nombre>Breakbones Todd</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Breakbones Todd</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/01/2004</fechaNacimiento>
             </persona>
           </jugador>
@@ -663,8 +663,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>313013</nroDocumento>
-              <nombre>Dribbler Sean</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Dribbler Sean</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/01/2002</fechaNacimiento>
             </persona>
           </jugador>
@@ -672,8 +672,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>313014</nroDocumento>
-              <nombre>Bad Scorer Jimmy</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Bad Scorer Jimmy</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/03/1988</fechaNacimiento>
             </persona>
           </jugador>
@@ -681,8 +681,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>313015</nroDocumento>
-              <nombre>Trickster Max</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Trickster Max</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>31/03/1990</fechaNacimiento>
             </persona>
           </jugador>
@@ -690,8 +690,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313016</nroDocumento>
-              <nombre>Cheater Mark</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Cheater Mark</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>01/03/1992</fechaNacimiento>
             </persona>
           </jugador>
@@ -699,8 +699,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313017</nroDocumento>
-              <nombre>Donkey Charles</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Donkey Charles</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>01/03/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -708,8 +708,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>313018</nroDocumento>
-              <nombre>Poor Julien</nombre>
-			  <pais>Britanilandia</pais>
+              <nombrex>Poor Julien</nombrex>
+  			      <paisx>Britanilandia</paisx>
               <fechaNacimiento>01/03/1991</fechaNacimiento>
             </persona>
           </jugador>
@@ -718,8 +718,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>313019</nroDocumento>
-            <nombre>Idontknow Chris</nombre>
-			<pais>Scotia</pais>
+            <nombrex>Idontknow Chris</nombrex>
+			      <paisx>Scotia</paisx>
             <fechaNacimiento>26/06/1960</fechaNacimiento>
           </persona>          
           <titulosObtenidos>2</titulosObtenidos>
@@ -736,8 +736,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413001</nroDocumento>
-              <nombre>Arqueraux Lille</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Arqueraux Lille</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>30/11/1980</fechaNacimiento>
             </persona>
           </jugador>
@@ -745,8 +745,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413002</nroDocumento>
-              <nombre>JeSuisUnFromage Rene</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>JeSuisUnFromage Rene</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>30/03/1978</fechaNacimiento>
             </persona>
           </jugador>
@@ -754,8 +754,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413003</nroDocumento>
-              <nombre>LeMarchandPepine Pierre</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>LeMarchandPepine Pierre</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>30/11/1979</fechaNacimiento>
             </persona>
           </jugador>
@@ -763,8 +763,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413004</nroDocumento>
-              <nombre>Bastille Kilyan</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Bastille Kilyan</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>30/11/1988</fechaNacimiento>
             </persona>
           </jugador>
@@ -772,8 +772,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413005</nroDocumento>
-              <nombre>CaféAuLait Francois</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>CaféAuLait Francois</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>01/11/1991</fechaNacimiento>
             </persona>
           </jugador>
@@ -781,8 +781,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>413006</nroDocumento>
-              <nombre>Lepiffie Louis</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Lepiffie Louis</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>30/11/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -790,8 +790,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413007</nroDocumento>
-              <nombre>Infranchissable Napoleon</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Infranchissable Napoleon</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>30/11/1990</fechaNacimiento>
             </persona>
           </jugador>
@@ -799,8 +799,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413008</nroDocumento>
-              <nombre>Qualifié Bertrand</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Qualifié Bertrand</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>17/02/1992</fechaNacimiento>
             </persona>
           </jugador>
@@ -808,8 +808,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>413009</nroDocumento>
-              <nombre>Capitaine Charles</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Capitaine Charles</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>17/05/1991</fechaNacimiento>
             </persona>
           </jugador>
@@ -817,8 +817,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413010</nroDocumento>
-              <nombre>TrésMagnifique Eric</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>TrésMagnifique Eric</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>31/05/1980</fechaNacimiento>
             </persona>
           </jugador>
@@ -826,8 +826,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413011</nroDocumento>
-              <nombre>Firulais Jacques</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Firulais Jacques</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>31/08/1989</fechaNacimiento>
             </persona>
           </jugador>
@@ -835,8 +835,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413012</nroDocumento>
-              <nombre>Squelette Alain</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Squelette Alain</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>31/01/1988</fechaNacimiento>
             </persona>
           </jugador>
@@ -844,8 +844,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>413013</nroDocumento>
-              <nombre>PiedGrand Philippe </nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>PiedGrand Philippe </nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>31/01/1987</fechaNacimiento>
             </persona>
           </jugador>
@@ -853,8 +853,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>413014</nroDocumento>
-              <nombre>Brillanté Vincent</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Brillanté Vincent</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>31/03/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -862,8 +862,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>413015</nroDocumento>
-              <nombre>LaPeine Yves</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>LaPeine Yves</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>31/03/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -871,8 +871,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413016</nroDocumento>
-              <nombre>Glorieux Guillaume </nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Glorieux Guillaume </nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>01/03/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -880,8 +880,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413017</nroDocumento>
-              <nombre>Goleadoreau Gilles</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Goleadoreau Gilles</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>01/03/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -889,8 +889,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>413018</nroDocumento>
-              <nombre>Optimiste Jean-Paul</nombre>
-			  <pais>Franchuteland</pais>
+              <nombrex>Optimiste Jean-Paul</nombrex>
+  			      <paisx>Franchuteland</paisx>
               <fechaNacimiento>01/03/1992</fechaNacimiento>
             </persona>
           </jugador>
@@ -899,8 +899,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>413019</nroDocumento>
-            <nombre>Visionnaire Arnoux</nombre>
-			<pais>Franchuteland</pais>
+            <nombrex>Visionnaire Arnoux</nombrex>
+			      <paisx>Franchuteland</paisx>
             <fechaNacimiento>26/06/1956</fechaNacimiento>
           </persona>
           <titulosObtenidos>8</titulosObtenidos>
@@ -918,8 +918,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500001</nroDocumento>
-              <nombre>Immortale Luiggi</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Immortale Luiggi</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -927,8 +927,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500002</nroDocumento>
-              <nombre>BuonPortiere Dino</nombre>
-			  <pais>Italica</pais>
+              <nombrex>BuonPortiere Dino</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/03/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -936,8 +936,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500003</nroDocumento>
-              <nombre>CorreVeloce Aldo</nombre>
-			  <pais>Italica</pais>
+              <nombrex>CorreVeloce Aldo</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/2003</fechaNacimiento>
             </persona>
           </jugador>
@@ -945,8 +945,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500004</nroDocumento>
-              <nombre>Rabbioso Furius</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Rabbioso Furius</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -954,8 +954,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500005</nroDocumento>
-              <nombre>Arrabbiato Siro</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Arrabbiato Siro</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/11/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -963,8 +963,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>500006</nroDocumento>
-              <nombre>FelinoFeroce Gattuso</nombre>
-			  <pais>Italica</pais>
+              <nombrex>FelinoFeroce Gattuso</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -972,8 +972,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500007</nroDocumento>
-              <nombre>Imperatore Antonio</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Imperatore Antonio</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>30/11/2001</fechaNacimiento>
             </persona>
           </jugador>
@@ -981,8 +981,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500008</nroDocumento>
-              <nombre>Sensazionale Luca</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Sensazionale Luca</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>17/02/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -990,8 +990,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>500009</nroDocumento>
-              <nombre>Capitano Celestino</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Capitano Celestino</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>17/05/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -999,8 +999,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500010</nroDocumento>
-              <nombre>Firuleto Adriano</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Firuleto Adriano</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/05/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -1008,8 +1008,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500011</nroDocumento>
-              <nombre>Vittorioso Vittorio</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Vittorioso Vittorio</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/08/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -1017,8 +1017,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500012</nroDocumento>
-              <nombre>Affascinante Pino</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Affascinante Pino</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/01/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -1026,8 +1026,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>500013</nroDocumento>
-              <nombre>Piccolo Capo Leo</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Piccolo Capo Leo</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/01/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -1035,8 +1035,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>500014</nroDocumento>
-              <nombre>Vincitore Toni</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Vincitore Toni</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/03/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -1044,8 +1044,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>500015</nroDocumento>
-              <nombre>Spettacolare Andrea</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Spettacolare Andrea</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>31/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -1053,8 +1053,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500016</nroDocumento>
-              <nombre>Grosso Nicola</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Grosso Nicola</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/2002</fechaNacimiento>
             </persona>
           </jugador>
@@ -1062,8 +1062,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500017</nroDocumento>
-              <nombre>Cannonieri Gianni</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Cannonieri Gianni</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -1071,8 +1071,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>500018</nroDocumento>
-              <nombre>Pericoloso Giocatore</nombre>
-			  <pais>Italica</pais>
+              <nombrex>Pericoloso Giocatore</nombrex>
+  			      <paisx>Italica</paisx>
               <fechaNacimiento>01/03/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -1081,8 +1081,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>500019</nroDocumento>
-            <nombre>Ossessivo Salvatore</nombre>
-			<pais>Italica</pais>
+            <nombrex>Ossessivo Salvatore</nombrex>
+			      <paisx>Italica</paisx>
             <fechaNacimiento>06/06/1969</fechaNacimiento>
           </persona>
           <titulosObtenidos>19</titulosObtenidos>
@@ -1099,8 +1099,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605401</nroDocumento>
-              <nombre>Nopara Ninguna</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Nopara Ninguna</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>30/11/1981</fechaNacimiento>
             </persona>
           </jugador>
@@ -1108,8 +1108,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605402</nroDocumento>
-              <nombre>Sakala Sugita</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Sakala Sugita</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>30/03/2002</fechaNacimiento>
             </persona>
           </jugador>
@@ -1117,8 +1117,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605403</nroDocumento>
-              <nombre>Osaka Opone</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Osaka Opone</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>30/11/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -1126,8 +1126,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605404</nroDocumento>
-              <nombre>Nikita Nipone</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Nikita Nipone</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>30/11/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -1135,8 +1135,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605405</nroDocumento>
-              <nombre>Sato Hamachi</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Sato Hamachi</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>01/11/1994</fechaNacimiento>
             </persona>
           </jugador>
@@ -1144,8 +1144,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>605406</nroDocumento>
-              <nombre>Moto Kawasaki</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Moto Kawasaki</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>30/11/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -1153,8 +1153,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605407</nroDocumento>
-              <nombre>Notira Pase</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Notira Pase</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>30/11/2001</fechaNacimiento>
             </persona>
           </jugador>
@@ -1162,8 +1162,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605408</nroDocumento>
-              <nombre>Kamachi Salata</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Kamachi Salata</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>17/02/1999</fechaNacimiento>
             </persona>
           </jugador>
@@ -1171,8 +1171,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>605409</nroDocumento>
-              <nombre>Kami Kaze</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Kami Kaze</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>17/05/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -1180,8 +1180,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605410</nroDocumento>
-              <nombre>Samu Rai</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Samu Rai</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>31/05/1982</fechaNacimiento>
             </persona>
           </jugador>
@@ -1189,8 +1189,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605411</nroDocumento>
-              <nombre>Kimono Fuyima</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Kimono Fuyima</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>31/08/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -1198,8 +1198,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605412</nroDocumento>
-              <nombre>Ketira Kaño</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Ketira Kaño</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>31/01/2004</fechaNacimiento>
             </persona>
           </jugador>
@@ -1207,8 +1207,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>605413</nroDocumento>
-              <nombre>Miyazaki Miyamoto</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Miyazaki Miyamoto</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>31/01/2002</fechaNacimiento>
             </persona>
           </jugador>
@@ -1216,8 +1216,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>605414</nroDocumento>
-              <nombre>Toriyama Watanabe</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Toriyama Watanabe</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>31/03/1988</fechaNacimiento>
             </persona>
           </jugador>
@@ -1225,8 +1225,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>605415</nroDocumento>
-              <nombre>Hirohito Abe</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Hirohito Abe</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>31/03/1990</fechaNacimiento>
             </persona>
           </jugador>
@@ -1234,8 +1234,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605416</nroDocumento>
-              <nombre>Hirakinawa Kapo</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Hirakinawa Kapo</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>01/03/1992</fechaNacimiento>
             </persona>
           </jugador>
@@ -1243,8 +1243,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605417</nroDocumento>
-              <nombre>Utagawa Nobunaga</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Utagawa Nobunaga</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>01/03/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -1252,8 +1252,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>605418</nroDocumento>
-              <nombre>Yoritomo Osaka</nombre>
-			  <pais>Niponia</pais>
+              <nombrex>Yoritomo Osaka</nombrex>
+  			      <paisx>Niponia</paisx>
               <fechaNacimiento>01/03/1991</fechaNacimiento>
             </persona>
           </jugador>
@@ -1262,8 +1262,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>605419</nroDocumento>
-            <nombre>Minamoto Kento</nombre>
-			<pais>Niponia</pais>
+            <nombrex>Minamoto Kento</nombrex>
+			      <paisx>Niponia</paisx>
             <fechaNacimiento>26/06/1960</fechaNacimiento>
           </persona>
           <titulosObtenidos>1</titulosObtenidos>
@@ -1280,8 +1280,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235101</nroDocumento>
-              <nombre>Ahivalabola Atajala</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Ahivalabola Atajala</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>30/11/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -1289,8 +1289,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235102</nroDocumento>
-              <nombre>Nowante Emir</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Nowante Emir</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>30/03/1991</fechaNacimiento>
             </persona>
           </jugador>
@@ -1298,8 +1298,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235103</nroDocumento>
-              <nombre>Perrak Ozil</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Perrak Ozil</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>27/03/1990</fechaNacimiento>
             </persona>
           </jugador>
@@ -1307,8 +1307,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235104</nroDocumento>
-              <nombre>Sentadat Dere</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Sentadat Dere</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>30/11/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -1316,8 +1316,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235105</nroDocumento>
-              <nombre>Fracasoduc Igor</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Fracasoduc Igor</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>01/11/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -1325,8 +1325,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>235106</nroDocumento>
-              <nombre>Maderak Engin</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Maderak Engin</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>30/11/1985</fechaNacimiento>
             </persona>
           </jugador>
@@ -1334,8 +1334,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235107</nroDocumento>
-              <nombre>Lentorkan Fazil</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Lentorkan Fazil</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>30/11/1987</fechaNacimiento>
             </persona>
           </jugador>
@@ -1343,8 +1343,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235108</nroDocumento>
-              <nombre>Mepasan Todosk</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Mepasan Todosk</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>17/02/1984</fechaNacimiento>
             </persona>
           </jugador>
@@ -1352,8 +1352,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>235109</nroDocumento>
-              <nombre>Nolaveok Engin</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Nolaveok Engin</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>17/05/1996</fechaNacimiento>
             </persona>
           </jugador>
@@ -1361,8 +1361,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235110</nroDocumento>
-              <nombre>Desastrek Burak</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Desastrek Burak</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>31/05/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -1370,8 +1370,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235111</nroDocumento>
-              <nombre>Burako Sangu</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Burako Sangu</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>31/08/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -1379,8 +1379,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235112</nroDocumento>
-              <nombre>Asperok Burat</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Asperok Burat</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>31/01/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -1388,8 +1388,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>235113</nroDocumento>
-              <nombre>Brutan Tarkan</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Brutan Tarkan</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>31/01/1998</fechaNacimiento>
             </persona>
           </jugador>
@@ -1397,8 +1397,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>235114</nroDocumento>
-              <nombre>Rustika Kerem</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Rustika Kerem</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>31/03/1993</fechaNacimiento>
             </persona>
           </jugador>
@@ -1406,8 +1406,8 @@
             <persona>
               <tipoDocumento>PAS</tipoDocumento>
               <nroDocumento>235115</nroDocumento>
-              <nombre>Akino Pasarat</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Akino Pasarat</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>31/03/1989</fechaNacimiento>
             </persona>
           </jugador>
@@ -1415,8 +1415,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235116</nroDocumento>
-              <nombre>Nokorrol Unal</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Nokorrol Unal</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>01/03/1995</fechaNacimiento>
             </persona>
           </jugador>
@@ -1424,8 +1424,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235117</nroDocumento>
-              <nombre>Kietorul Furkan</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Kietorul Furkan</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>01/03/1997</fechaNacimiento>
             </persona>
           </jugador>
@@ -1433,8 +1433,8 @@
             <persona>
               <tipoDocumento>DU</tipoDocumento>
               <nroDocumento>235118</nroDocumento>
-              <nombre>Malo Conganas</nombre>
-			  <pais>Turquisia</pais>
+              <nombrex>Malo Conganas</nombrex>
+  			      <paisx>Turquisia</paisx>
               <fechaNacimiento>01/03/2000</fechaNacimiento>
             </persona>
           </jugador>
@@ -1443,8 +1443,8 @@
           <persona>
             <tipoDocumento>DU</tipoDocumento>
             <nroDocumento>235119</nroDocumento>
-            <nombre>Vamok Patras</nombre>
-			<pais>Turquisia</pais>
+            <nombrex>Vamok Patras</nombrex>
+			      <paisx>Turquisia</paisx>
             <fechaNacimiento>06/06/1968</fechaNacimiento>
           </persona>
           <titulosObtenidos>25</titulosObtenidos>
@@ -1457,8 +1457,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852101</nroDocumento>
-        <nombre>Silbado Ariel</nombre>
-		    <pais>Argensur</pais>
+        <nombrex>Silbado Ariel</nombrex>
+		    <paisx>Argensur</paisx>
         <fechaNacimiento>30/11/1970</fechaNacimiento>
       </persona>
       <aniosReferato>20</aniosReferato>
@@ -1467,8 +1467,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852102</nroDocumento>
-        <nombre>Magoo Mr</nombre>
-		<pais>Britanilandia</pais>
+        <nombrex>Magoo Mr</nombrex>
+		    <paisx>Britanilandia</paisx>
         <fechaNacimiento>30/11/1991</fechaNacimiento>
       </persona>      
       <aniosReferato>15</aniosReferato>
@@ -1477,8 +1477,8 @@
       <persona>
         <tipoDocumento>PAS</tipoDocumento>
         <nroDocumento>9852103</nroDocumento>
-        <nombre>SigaSiga Yonoví</nombre>
-		<pais>Nigembique</pais>
+        <nombrex>SigaSiga Yonoví</nombrex>
+		    <paisx>Nigembique</paisx>
         <fechaNacimiento>10/03/2000</fechaNacimiento>
       </persona>      
       <aniosReferato>3</aniosReferato>
@@ -1487,8 +1487,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852104</nroDocumento>
-        <nombre>Easyredcard John</nombre>
-		<pais>Britanilandia</pais>
+        <nombrex>Easyredcard John</nombrex>
+		    <paisx>Britanilandia</paisx>
         <fechaNacimiento>21/08/1982</fechaNacimiento>
       </persona>    
       <aniosReferato>14</aniosReferato>
@@ -1497,8 +1497,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852105</nroDocumento>
-        <nombre>Furias Pedro</nombre>
-		<pais>Hispania</pais>
+        <nombrex>Furias Pedro</nombrex>
+		    <paisx>Hispania</paisx>
         <fechaNacimiento>15/12/1982</fechaNacimiento>
       </persona>      
       <aniosReferato>13</aniosReferato>
@@ -1507,8 +1507,8 @@
       <persona>
         <tipoDocumento>PAS</tipoDocumento>
         <nroDocumento>9852106</nroDocumento>
-        <nombre>Inflessibile Petreo</nombre>
-		<pais>Italica</pais>
+        <nombrex>Inflessibile Petreo</nombrex>
+		    <paisx>Italica</paisx>
         <fechaNacimiento>20/11/1998</fechaNacimiento>
       </persona>      
       <aniosReferato>13</aniosReferato>
@@ -1517,8 +1517,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852107</nroDocumento>
-        <nombre>Expulssen Rojen</nombre>
-		<pais>Germanecia</pais>
+        <nombrex>Expulssen Rojen</nombrex>
+		    <paisx>Germanecia</paisx>
         <fechaNacimiento>10/03/1986</fechaNacimiento>
       </persona>      
       <aniosReferato>25</aniosReferato>
@@ -1527,8 +1527,8 @@
       <persona>
         <tipoDocumento>PAS</tipoDocumento>
         <nroDocumento>9852108</nroDocumento>
-        <nombre>Rebbobinen Rewind</nombre>
-		<pais>Germanecia</pais>
+        <nombrex>Rebbobinen Rewind</nombrex>
+		    <paisx>Germanecia</paisx>
         <fechaNacimiento>10/01/1990</fechaNacimiento>
       </persona>      
       <aniosReferato>11</aniosReferato>
@@ -1537,8 +1537,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852109</nroDocumento>
-        <nombre>Naojodan Edson</nombre>
-		<pais>Varsil</pais>
+        <nombrex>Naojodan Edson</nombrex>
+		    <paisx>Varsil</paisx>
         <fechaNacimiento>10/11/2000</fechaNacimiento>
       </persona>      
       <aniosReferato>2</aniosReferato>
@@ -1547,8 +1547,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852110</nroDocumento>
-        <nombre>Sobornable Atilio</nombre>
-		<pais>Argensur</pais>
+        <nombrex>Sobornable Atilio</nombrex>
+		    <paisx>Argensur</paisx>
         <fechaNacimiento>10/05/1990</fechaNacimiento>
       </persona>      
       <aniosReferato>10</aniosReferato>
@@ -1557,8 +1557,8 @@
       <persona>
         <tipoDocumento>PAS</tipoDocumento>
         <nroDocumento>9852111</nroDocumento>
-        <nombre>Improperiah Mayorh</nombre>
-		<pais>Kamchatka</pais>
+        <nombrex>Improperiah Mayorh</nombrex>
+		    <paisx>Kamchatka</paisx>
         <fechaNacimiento>30/06/1995</fechaNacimiento>
       </persona>      
       <aniosReferato>7</aniosReferato>
@@ -1567,8 +1567,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852112</nroDocumento>
-        <nombre>Fallosky Todorov</nombre>
-		<pais>Rashia</pais>
+        <nombrex>Fallosky Todorov</nombrex>
+		    <paisx>Rashia</paisx>
         <fechaNacimiento>01/08/1997</fechaNacimiento>
       </persona>      
       <aniosReferato>11</aniosReferato>
@@ -1577,8 +1577,8 @@
       <persona>
         <tipoDocumento>PAS</tipoDocumento>
         <nroDocumento>9852113</nroDocumento>
-        <nombre>Aminoeh Nadur</nombre>
-		<pais>Turquisia</pais>
+        <nombrex>Aminoeh Nadur</nombrex>
+		    <paisx>Turquisia</paisx>
         <fechaNacimiento>22/04/1988</fechaNacimiento>
       </persona>      
       <aniosReferato>5</aniosReferato>
@@ -1587,8 +1587,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852114</nroDocumento>
-        <nombre>Yokonoko TikiTaka</nombre>
-		<pais>Niponia</pais>
+        <nombrex>Yokonoko TikiTaka</nombrex>
+		    <paisx>Niponia</paisx>
         <fechaNacimiento>12/12/1992</fechaNacimiento>
       </persona>      
       <aniosReferato>9</aniosReferato>
@@ -1597,8 +1597,8 @@
       <persona>
         <tipoDocumento>PAS</tipoDocumento>
         <nroDocumento>9852115</nroDocumento>
-        <nombre>Siamofuori Dallacoppa</nombre>
-		<pais>Italica</pais>
+        <nombrex>Siamofuori Dallacoppa</nombrex>
+		    <paisx>Italica</paisx>
         <fechaNacimiento>22/07/1990</fechaNacimiento>
       </persona>      
       <aniosReferato>15</aniosReferato>
@@ -1607,8 +1607,8 @@
       <persona>
         <tipoDocumento>DU</tipoDocumento>
         <nroDocumento>9852116</nroDocumento>
-        <nombre>Nimiro Kiensaka</nombre>
-		<pais>Niponia</pais>
+        <nombrex>Nimiro Kiensaka</nombrex>
+		    <paisx>Niponia</paisx>
         <fechaNacimiento>13/07/1997</fechaNacimiento>
       </persona>      
       <aniosReferato>4</aniosReferato>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT arbitros (arbitro*)> 
+<!ELEMENT arbitro (persona, aniosReferato)> 
+<!ELEMENT persona (tipoDocumento, nroDocumento, nombrex, paisx, fechaNacimiento)> 
+<!ELEMENT tipoDocumento (#PCDATA)>
+<!ELEMENT nroDocumento (#PCDATA)>
+<!ELEMENT nombrex (#PCDATA)>
+<!ELEMENT fechaNacimiento (#PCDATA)>
+<!ELEMENT puntuacion (#PCDATA)>
+<!ELEMENT paisx (#PCDATA)>
+<!ELEMENT aniosReferato (#PCDATA)>

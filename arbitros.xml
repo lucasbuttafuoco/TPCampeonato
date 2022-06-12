@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE arbitros SYSTEM "arbitros.dtd">
+<arbitros>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852101</nroDocumento>
+      <nombrex>Silbado Ariel</nombrex>
+      <paisx>Argensur</paisx>
+      <fechaNacimiento>30/11/1970</fechaNacimiento>
+    </persona>
+    <aniosReferato>20</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852102</nroDocumento>
+      <nombrex>Magoo Mr</nombrex>
+      <paisx>Britanilandia</paisx>
+      <fechaNacimiento>30/11/1991</fechaNacimiento>
+    </persona>      
+    <aniosReferato>15</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>PAS</tipoDocumento>
+      <nroDocumento>9852103</nroDocumento>
+      <nombrex>SigaSiga Yonoví</nombrex>
+      <paisx>Nigembique</paisx>
+      <fechaNacimiento>10/03/2000</fechaNacimiento>
+    </persona>      
+    <aniosReferato>3</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852104</nroDocumento>
+      <nombrex>Easyredcard John</nombrex>
+      <paisx>Britanilandia</paisx>
+      <fechaNacimiento>21/08/1982</fechaNacimiento>
+    </persona>    
+    <aniosReferato>14</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852105</nroDocumento>
+      <nombrex>Furias Pedro</nombrex>
+      <paisx>Hispania</paisx>
+      <fechaNacimiento>15/12/1982</fechaNacimiento>
+    </persona>      
+    <aniosReferato>13</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>PAS</tipoDocumento>
+      <nroDocumento>9852106</nroDocumento>
+      <nombrex>Inflessibile Petreo</nombrex>
+      <paisx>Italica</paisx>
+      <fechaNacimiento>20/11/1998</fechaNacimiento>
+    </persona>      
+    <aniosReferato>13</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852107</nroDocumento>
+      <nombrex>Expulssen Rojen</nombrex>
+      <paisx>Germanecia</paisx>
+      <fechaNacimiento>10/03/1986</fechaNacimiento>
+    </persona>      
+    <aniosReferato>25</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>PAS</tipoDocumento>
+      <nroDocumento>9852108</nroDocumento>
+      <nombrex>Rebbobinen Rewind</nombrex>
+      <paisx>Germanecia</paisx>
+      <fechaNacimiento>10/01/1990</fechaNacimiento>
+    </persona>      
+    <aniosReferato>11</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852109</nroDocumento>
+      <nombrex>Naojodan Edson</nombrex>
+      <paisx>Varsil</paisx>
+      <fechaNacimiento>10/11/2000</fechaNacimiento>
+    </persona>      
+    <aniosReferato>2</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852110</nroDocumento>
+      <nombrex>Sobornable Atilio</nombrex>
+      <paisx>Argensur</paisx>
+      <fechaNacimiento>10/05/1990</fechaNacimiento>
+    </persona>      
+    <aniosReferato>10</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>PAS</tipoDocumento>
+      <nroDocumento>9852111</nroDocumento>
+      <nombrex>Improperiah Mayorh</nombrex>
+      <paisx>Kamchatka</paisx>
+      <fechaNacimiento>30/06/1995</fechaNacimiento>
+    </persona>      
+    <aniosReferato>7</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852112</nroDocumento>
+      <nombrex>Fallosky Todorov</nombrex>
+      <paisx>Rashia</paisx>
+      <fechaNacimiento>01/08/1997</fechaNacimiento>
+    </persona>      
+    <aniosReferato>11</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>PAS</tipoDocumento>
+      <nroDocumento>9852113</nroDocumento>
+      <nombrex>Aminoeh Nadur</nombrex>
+      <paisx>Turquisia</paisx>
+      <fechaNacimiento>22/04/1988</fechaNacimiento>
+    </persona>      
+    <aniosReferato>5</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852114</nroDocumento>
+      <nombrex>Yokonoko TikiTaka</nombrex>
+      <paisx>Niponia</paisx>
+      <fechaNacimiento>12/12/1992</fechaNacimiento>
+    </persona>      
+    <aniosReferato>9</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>PAS</tipoDocumento>
+      <nroDocumento>9852115</nroDocumento>
+      <nombrex>Siamofuori Dallacoppa</nombrex>
+      <paisx>Italica</paisx>
+      <fechaNacimiento>22/07/1990</fechaNacimiento>
+    </persona>      
+    <aniosReferato>15</aniosReferato>
+  </arbitro>
+  <arbitro>
+    <persona>
+      <tipoDocumento>DU</tipoDocumento>
+      <nroDocumento>9852116</nroDocumento>
+      <nombrex>Nimiro Kiensaka</nombrex>
+      <paisx>Niponia</paisx>
+      <fechaNacimiento>13/07/1997</fechaNacimiento>
+    </persona>      
+    <aniosReferato>4</aniosReferato>
+  </arbitro>
+</arbitros>
