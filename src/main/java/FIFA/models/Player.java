@@ -6,10 +6,11 @@ public class Player extends TeamMember {
     private Positions position;
     private int handicap;
 
-    public Player(String name, String fechaNacimiento, String typeDNI, String dNI, String nationality, String pais, Positions pos,
+    public Player(String name, String fechaNacimiento, String typeDNI, String dNI, String nationality, String pais, String pos,
             int handicap) {
         super(name, fechaNacimiento, typeDNI, dNI, nationality, pais);
-        this.position = pos;
+
+        this.position = Positions.valueOf(pos.toUpperCase());
         this.handicap = handicap;
     }
 
