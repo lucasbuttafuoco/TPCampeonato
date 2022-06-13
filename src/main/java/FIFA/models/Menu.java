@@ -2,6 +2,7 @@ package FIFA.models;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Comparator;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -13,22 +14,19 @@ public class Menu {
         int opcion;
         do{
             System.out.print("\n\t\tMenu\n---------------------------------------"
-                    + "\n1:Jugar Partido"
-                    + "\n2:Jugar Zonas"
-                    + "\n3:Jugar Campeonato"
-                    + "\n4:Reportes"
-                    + "\n5:Salir\n");
-            
+                    + "\n1:Jugar Partidos"
+                    + "\n2:Mostrar tabla de posiciones por zona"
+                    + "\n3:Reportes"
+                    + "\n4:Salir\n");
             try {
                 System.out.println("Seleccione una de las opciones");
                 System.out.println();
                 opcion = sn.nextInt();
                 switch (opcion) {
-                    case 1:	System.out.println("Juega Part");;break;
-                    case 2: playMatchesFromZones(championship, referees);break;						
-                    case 3: playMatchesChampionship(championship, referees, teams);;break;
-                    case 4: reportsMenu(championship, teams);;break;
-                    case 5: System.out.println("Finalizado");salir = true;break;
+                    case 1:	playMatches(championship, referees, teams);break;
+                    case 2: showTables(championship);break;
+                    case 3: reportsMenu(championship, teams);break;
+                    case 4: System.out.println("Finalizado");salir = true;break;
                     default: System.out.println("Solo números entre 1 y 4");
                 }
             } catch (InputMismatchException e) {
@@ -40,9 +38,49 @@ public class Menu {
     }
 
 
-    public void playMatch(Championship championship, ArrayList<Referee> referees){
-        //Match match = new Match();
+    public static void showTables(Championship championship){
+        ArrayList<TableComponent> tabla =  championship.getTable();
+        ArrayList<Zone> zonas = championship.getZones();
 
+        System.out.println("Posicion | Equipo | Puntos | PJ | Dif. de Gol | Goles a favor");
+        for(int i = 0; i < tabla.size(); i++){
+            TableComponent equipo = tabla.get(i);
+            System.out.println(i+1 + "   " + 
+                               equipo.getTeamName() + "   " + 
+                               equipo.getPoints() + "   " + 
+                               equipo.getMatchsPlayed() + "   " + 
+                               equipo.getGoalsDifference() + "   " +
+                               equipo.getGoals());
+        }
+    }
+
+
+    public static void playMatches(Championship championship, ArrayList<Referee> referees, ArrayList<Team> teams){
+        Scanner sn = new Scanner(System.in);
+        boolean salir = false;
+        int opcion;
+
+        do{
+            System.out.print("\n\t\tMenu\n---------------------------------------"
+                    + "\n1:Jugar Zonas"
+                    + "\n2:Jugar Campeonato"
+                    + "\n3:Salir\n");
+            try {
+                System.out.println("Seleccione una de las opciones");
+                System.out.println();
+                opcion = sn.nextInt();
+                switch (opcion) {
+                    case 1: playMatchesFromZones(championship, referees);break;						
+                    case 2: playMatchesChampionship(championship, referees, teams);break;
+                    case 3: System.out.println("Finalizado");salir = true;break;
+                    default: System.out.println("Solo números entre 1 y 3");
+                }
+            } catch (InputMismatchException e) {
+                System.out.println("Debes insertar un número");
+                sn.next();
+            }
+        }
+        while (!salir) ;
     }
 
 
@@ -76,7 +114,6 @@ public class Menu {
                     + "\n1:Listado de Equipos"
                     + "\n2:Listado de Jugadores"
                     + "\n3:Volver\n");
-            
             try {
                 System.out.println("Seleccione una de las opciones");
                 System.out.println();
@@ -132,7 +169,6 @@ public class Menu {
                     + "\n3:MEDIOCAMPISTAS"
                     + "\n4:DELANTEROS"
                     + "\n5:Volver\n");
-            
             try {
                 System.out.println("Seleccione una de las opciones");
                 System.out.println();
