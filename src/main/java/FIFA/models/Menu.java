@@ -6,6 +6,12 @@ import java.util.Scanner;
 
 public class Menu {
     
+    
+    /** 
+     * @param championship
+     * @param referees
+     * @param teams
+     */
     public static void MenuOp(Championship championship, ArrayList<Referee> referees, ArrayList<Team> teams) {
         Scanner sn = new Scanner(System.in);
         boolean salir = false;
@@ -36,6 +42,10 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     */
     public static void showTable(Championship championship){
         ArrayList<TableComponent> tabla =  championship.getTable();
         System.out.printf("%8s %20s %6s %6s %15s %15s", "Posicion", "Equipo ","Puntos","PJ","Dif. de Gol","Goles a favor");
@@ -48,6 +58,12 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param referees
+     * @param teams
+     */
     public static void playMatches(Championship championship, ArrayList<Referee> referees, ArrayList<Team> teams){
         Scanner sn = new Scanner(System.in);
         boolean salir = false;
@@ -77,11 +93,22 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param referees
+     */
     public static void playMatchesFromZones(Championship championship, ArrayList<Referee> referees){
         championship.playZones(referees);
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param referees
+     * @param teams
+     */
     public static void playMatchesChampionship(Championship championship, ArrayList<Referee> referees, ArrayList<Team> teams){
         ArrayList<Team> finalists=new ArrayList<Team>();
         Team winner = new Team();
@@ -97,6 +124,11 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param teams
+     */
     public static void reportsMenu(Championship championship, ArrayList<Team> teams){
         Scanner sn = new Scanner(System.in);
         boolean salir = false;
@@ -126,6 +158,11 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param teams
+     */
     public static void teamsList(Championship championship, ArrayList<Team> teams){
         ArrayList<TableComponent> tabla =  championship.getTable();
         int w, r;
@@ -149,6 +186,11 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param teams
+     */
     public static void playersList(Championship championship, ArrayList<Team> teams){
         Scanner sn = new Scanner(System.in);
         boolean salir = false;
@@ -198,6 +240,11 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param championship
+     * @param teams
+     */
     public static void readGoalKeepers(Championship championship, ArrayList<Team> teams){
         ArrayList<TableComponent> tabla =  championship.getTable();
         int w;
@@ -229,6 +276,11 @@ public class Menu {
     }
 
 
+    
+    /** 
+     * @param teams
+     * @param posicion
+     */
     public static void readPlayers(ArrayList<Team> teams, String posicion){
         String pos = posicion.toUpperCase();
 

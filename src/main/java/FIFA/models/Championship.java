@@ -15,14 +15,27 @@ public class Championship {
         this.zones = createZones(teams);
     }
 
+    
+    /** 
+     * @return ArrayList<Zone>
+     */
     public ArrayList<Zone> getZones() {
         return zones;
     }
 
+    
+    /** 
+     * @return ArrayList<TableComponent>
+     */
     public ArrayList<TableComponent> getTable() {
         return positionTable;
     }
 
+    
+    /** 
+     * @param teams
+     * @return ArrayList<Zone>
+     */
     public ArrayList<Zone> createZones(ArrayList<Team> teams) {
         zones=new ArrayList<Zone>();
         ArrayList<Team> teamsFromZone1 = new ArrayList<Team>();
@@ -50,6 +63,11 @@ public class Championship {
         return zones;
     }
 
+    
+    /** 
+     * @param teams
+     * @return ArrayList<TableComponent>
+     */
     private ArrayList<TableComponent> createPositionTable(ArrayList<Team> teams){
         ArrayList<TableComponent> posT=new ArrayList<TableComponent>();
         for (int i= 0 ; i < teams.size(); i++){
@@ -59,10 +77,18 @@ public class Championship {
         return posT;
     }
 
+    
+    /** 
+     * @param positionTable
+     */
     public static void updatePositionTable(ArrayList<TableComponent> positionTable){
         Collections.sort(positionTable,Collections.reverseOrder());
     }
 
+    
+    /** 
+     * @param referees
+     */
     public void playZones(ArrayList<Referee> referees){
         String actualDate = "11-11-2020";
         this.positionTableZone1 = createPositionTable(zones.get(0).getTeams()) ;
@@ -94,6 +120,12 @@ public class Championship {
         System.out.println();
     }
 
+    
+    /** 
+     * @param referees
+     * @param teams
+     * @return ArrayList<Team>
+     */
     public ArrayList<Team> playSemifinal(ArrayList<Referee> referees, ArrayList<Team> teams){
         ArrayList<Team> winnersZone1 = new ArrayList<Team>();
         ArrayList<Team> winnersZone2 = new ArrayList<Team>();
@@ -136,6 +168,12 @@ public class Championship {
         return finalists;
     }
     
+    
+    /** 
+     * @param referees
+     * @param finalists
+     * @return Team
+     */
     public Team playFinal(ArrayList<Referee> referees, ArrayList<Team> finalists){
         Random randomGenerator = new Random();
         String actualDate = "20-11-2020";

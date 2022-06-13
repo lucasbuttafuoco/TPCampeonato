@@ -16,38 +16,75 @@ public class Match {
         this.ref = ref;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getDate() {
         return date;
     }
 
+    
+    /** 
+     * @param date
+     */
     public void setDate(String date) {
         this.date = date;
     }
 
+    
+    /** 
+     * @return Team
+     */
     public Team getLocal() {
         return local;
     }
 
+    
+    /** 
+     * @param local
+     */
     public void setLocal(Team local) {
         this.local = local;
     }
 
+    
+    /** 
+     * @return Team
+     */
     public Team getVisitor() {
         return visitor;
     }
 
+    
+    /** 
+     * @param visitor
+     */
     public void setVisitor(Team visitor) {
         this.visitor = visitor;
     }
 
+    
+    /** 
+     * @return Referee
+     */
     public Referee getRef() {
         return ref;
     }
 
+    
+    /** 
+     * @param ref
+     */
     public void setRef(Referee ref) {
         this.ref = ref;
     }
 
+    
+    /** 
+     * @param positionTable
+     * @param zoneTable
+     */
     public void result(ArrayList<TableComponent> positionTable, ArrayList<TableComponent> zoneTable) {
         String localName = local.getName();
         String visitorName = visitor.getName();
@@ -95,6 +132,12 @@ public class Match {
 
     }
     
+    
+    /** 
+     * @param team1ranking
+     * @param team2ranking
+     * @return boolean
+     */
     private boolean calculateLoserProb(int team1ranking, int team2ranking){
         float p = team1ranking+team2ranking;
         float result;
@@ -113,6 +156,10 @@ public class Match {
         }
     }
 
+    
+    /** 
+     * @return ArrayList<Integer>
+     */
     private ArrayList<Integer> calculateGoals(){
         Random randomGenerator = new Random();
         Random randomGeneratorTie = new Random();
@@ -140,6 +187,14 @@ public class Match {
         return result;
     }
 
+    
+    /** 
+     * @param zoneTable
+     * @param localName
+     * @param visitorName
+     * @param goalsLocal
+     * @param goalsVisitor
+     */
     private void updateZoneTable(ArrayList<TableComponent> zoneTable, String localName, String visitorName, int goalsLocal, int goalsVisitor){
         int i = 0;
         i = 0;
@@ -156,6 +211,14 @@ public class Match {
 
     }
 
+    
+    /** 
+     * @param positionTable
+     * @param localName
+     * @param visitorName
+     * @param goalsLocal
+     * @param goalsVisitor
+     */
     private void updateGlobalTable(ArrayList<TableComponent> positionTable, String localName, String visitorName, int goalsLocal, int goalsVisitor){
         int i = 0;
         while(positionTable.get(i).getTeamName().compareTo(localName) != 0){
@@ -170,6 +233,10 @@ public class Match {
         Championship.updatePositionTable(positionTable);
     }
 
+    
+    /** 
+     * @return Team
+     */
     public Team resultSemifinal(){
         String localName = local.getName();
         String visitorName = visitor.getName();
@@ -223,6 +290,12 @@ public class Match {
         }
     }
 
+    
+    /** 
+     * @param local
+     * @param visitor
+     * @return Team
+     */
     public Team penalties(Team local, Team visitor){
         Random randomGenerator = new Random();
         int penaltiesTeamLocal = randomGenerator.nextInt(5);

@@ -23,42 +23,84 @@ public class TableComponent implements Comparable<TableComponent>{
         this.goalsDifference = 0;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getPoints() {
         return points;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getTeamName() {
         return teamName;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getMatchsPlayed() {
         return matchsPlayed;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getMatchsWinned() {
         return matchsWinned;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getMatchsTied() {
         return matchsTied;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getMatchsLost() {
         return matchsLost;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getGoals() {
         return goals;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getGoalsAgainst() {
         return goalsAgainst;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getGoalsDifference() {
         return goalsDifference;
     }
 
+    
+    /** 
+     * @param teamName
+     * @param goals
+     * @param goalsReceieved
+     */
     public void updateTable(String teamName, int goals, int goalsReceieved){
         matchsPlayed++;
         if (goals == goalsReceieved){
@@ -80,6 +122,11 @@ public class TableComponent implements Comparable<TableComponent>{
         
     }
 
+    
+    /** 
+     * @param o
+     * @return int
+     */
     @Override
     public int compareTo(TableComponent o) {
         int result=this.points.compareTo(o.points);

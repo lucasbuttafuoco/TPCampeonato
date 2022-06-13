@@ -27,48 +27,88 @@ public class Team {
         teamList = teamList2;
     }
 
+    
+    /** 
+     * @param name
+     */
     @XmlElement(name = "equipo")
     public void setName(String name) {
         this.name = name;
     }
 
+    
+    /** 
+     * @param country
+     */
     @XmlElement(name = "pais")
     public void setCountry(String country) {
         this.country = country;
     }
     
     
+    
+    /** 
+     * @param teamList
+     */
     @XmlElementWrapper(name = "jugadores")
     @XmlElement(name = "jugador")
     public void setTeamList(ArrayList<TeamMember> teamList) {
         this.teamList = teamList;
     }
 
+    
+    /** 
+     * @return String
+     */
     public String getName() {
         return name;
     };
 
+    
+    /** 
+     * @return String
+     */
     public String getCountry() {
         return country;
     }
 
+    
+    /** 
+     * @return int
+     */
     public int getRankingPosition() {
         return rankingPosition;
     }
     
+    
+    /** 
+     * @return ArrayList<TeamMember>
+     */
     public ArrayList<TeamMember> getTeamList() {
         return teamList;
     }
 
+    
+    /** 
+     * @param rankingPosition
+     */
     @XmlElement(name = "ranking")
     public void setRankingPosition(int rankingPosition) {
         this.rankingPosition = rankingPosition;
     }
 
+    
+    /** 
+     * @param tm
+     */
     public void addMember(TeamMember tm) {
         teamList.add(tm);
     }
 
+    
+    /** 
+     * @return String
+     */
     @Override
     public String toString() {
         return "[Team name: " + name + " Country: " + country + ", Ranking Position: " + rankingPosition + ", teamList: "
