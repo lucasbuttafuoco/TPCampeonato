@@ -98,18 +98,24 @@ public class Menu {
 
     public static void teamsList(Championship championship, ArrayList<Team> teams){
         ArrayList<TableComponent> tabla =  championship.getTable();
-        int w;
+        int w, r;
 
         for(int i = 0; i < tabla.size(); i++){
+            System.out.println("-----------------------------");
+            System.out.println(tabla.get(i).getTeamName());
             w = 0;
-            while(tabla.get(i).getTeamName() != teams.get(i).getName()){
+            while(tabla.get(i).getTeamName() != teams.get(w).getName()){
                 w++;
             }
-            
+            r = 0;
+            ArrayList<TeamMember> tml = teams.get(w).getTeamList();
+            while(tml.get(r).getClass() == DT.class){
+                r++;
+            }
+            System.out.println("Nacionalidad DT: " + tml.get(r).getNationality());
+            System.out.println("Goles a favor: " + tabla.get(i).getGoals());
+            System.out.println("Goles a en contra: " + tabla.get(i).getGoalsAgainst());
         }
-        
-    
-    
     }
 
 
