@@ -16,8 +16,8 @@ class app {
        
         Championship championship = new Championship(zones,teams);
         System.out.println("Campeonato Anual de Futbol :)");
-        championship.playZones(championship.getZones(),referees);
-
+        championship.playZones(referees);
+        championship.playSemifinal(referees, teams);
     }
 
 

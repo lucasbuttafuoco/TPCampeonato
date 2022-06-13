@@ -53,6 +53,7 @@ public class Match {
         String visitorName = visitor.getName();
         int localRanking = local.getRankingPosition();
         int visitorRanking = visitor.getRankingPosition();
+
         boolean result;
         ArrayList<Integer> goalResult = new ArrayList<Integer>();
         int goalsLocal;
@@ -83,36 +84,14 @@ public class Match {
             }
         }
 
-        //update table
-        int i = 0;
-        while(positionTable.get(i).getTeamName().compareTo(localName) != 0){
-            i++;
-        }
-        positionTable.get(i).updateTable(localName, goalsLocal, goalsVisitor);
-        i = 0;
-        while(zoneTable.get(i).getTeamName().compareTo(localName) != 0){
-            i++;
-        }
-        zoneTable.get(i).updateTable(localName, goalsLocal, goalsVisitor);
-
-        i = 0;
-        while(positionTable.get(i).getTeamName().compareTo(visitorName) != 0){
-            i++;
-        }
-        positionTable.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
-        i = 0;
-        while(zoneTable.get(i).getTeamName().compareTo(visitorName) != 0){
-            i++;
-        }
-        zoneTable.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
-        
-        Championship.updatePositionTable(positionTable);
-        Championship.updatePositionTable(zoneTable);
+        updateGlobalTable(positionTable, localName, visitorName, goalsLocal, goalsVisitor);
+        updateZoneTable(zoneTable, localName, visitorName, goalsLocal, goalsVisitor);
 
         //show match result
         System.out.println(
             "Resultado " + local.getName() + " " + goalsLocal + " - " + goalsVisitor + " " + visitor.getName());
         System.out.println("Referi del partido: " + ref.toString());
+        System.out.println("-----------------------------------------");
 
     }
     
@@ -159,6 +138,75 @@ public class Match {
             result.add(loserGoals);
         }   
         return result;
+    }
+
+    private void updateZoneTable(ArrayList<TableComponent> zoneTable, String localName, String visitorName, int goalsLocal, int goalsVisitor){
+        int i = 0;
+        i = 0;
+        while(zoneTable.get(i).getTeamName().compareTo(localName) != 0){
+            i++;
+        }
+        zoneTable.get(i).updateTable(localName, goalsLocal, goalsVisitor);
+        i = 0;
+        while(zoneTable.get(i).getTeamName().compareTo(visitorName) != 0){
+            i++;
+        }
+        zoneTable.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
+        Championship.updatePositionTable(zoneTable);
+
+    }
+
+    private void updateGlobalTable(ArrayList<TableComponent> positionTable, String localName, String visitorName, int goalsLocal, int goalsVisitor){
+        int i = 0;
+        while(positionTable.get(i).getTeamName().compareTo(localName) != 0){
+            i++;
+        }
+        positionTable.get(i).updateTable(localName, goalsLocal, goalsVisitor);
+        i = 0;
+        while(positionTable.get(i).getTeamName().compareTo(visitorName) != 0){
+            i++;
+        }
+        positionTable.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
+        Championship.updatePositionTable(positionTable);
+    }
+
+    public Team resultSemifinal(){
+        String localName = local.getName();
+        String visitorName = visitor.getName();
+        int localRanking = local.getRankingPosition();
+        int visitorRanking = visitor.getRankingPosition();
+        int goalsLocal;
+        int goalsVisitor;
+        //
+        boolean localLost = calculateLoserProb(localRanking, visitorRanking);
+        ArrayList<Integer> goalResultFirst = new ArrayList<Integer>();
+        goalResultFirst=calculateGoals();
+        if (localLost){
+            goalsLocal=goalResultFirst.get(1);
+            goalsVisitor=goalResultFirst.get(0);
+        }
+        else{
+            goalsLocal=goalResultFirst.get(0);
+            goalsVisitor=goalResultFirst.get(1);
+        }
+
+        ArrayList<Integer> goalResultSecond = new ArrayList<Integer>();
+        goalResultSecond=calculateGoals();
+        if (localLost){
+            goalsLocal+=goalResultSecond.get(1);
+            goalsVisitor+=goalResultSecond.get(0);
+        }
+        else{
+            goalsLocal+=goalResultSecond.get(0);
+            goalsVisitor+=goalResultSecond.get(1);
+        }
+        if (goalsLocal == goalsVisitor){
+            System.out.println("FUERON A PENALES!!!!");
+            return this.local;
+        }
+        else if( goalsLocal > goalsVisitor)
+            return this.local;
+        else return this.visitor;
     }
 
 }
