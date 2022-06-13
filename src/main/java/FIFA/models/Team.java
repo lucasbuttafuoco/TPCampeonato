@@ -56,6 +56,10 @@ public class Team {
         return rankingPosition;
     }
     
+    public ArrayList<TeamMember> getTeamList() {
+        return teamList;
+    }
+
     @XmlElement(name = "ranking")
     public void setRankingPosition(int rankingPosition) {
         this.rankingPosition = rankingPosition;
