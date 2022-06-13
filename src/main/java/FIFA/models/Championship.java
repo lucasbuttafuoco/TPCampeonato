@@ -2,6 +2,7 @@ package FIFA.models;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Random;
 
 public class Championship {
     private ArrayList<Zone> zones;
@@ -135,4 +136,24 @@ public class Championship {
         return finalists;
     }
     
+    public Team playFinal(ArrayList<Referee> referees, ArrayList<Team> finalists){
+        Random randomGenerator = new Random();
+        String actualDate = "20-11-2020";
+        System.out.println("FINAL DEL TORNEO:");
+        Match finalMatch = new Match(actualDate, finalists.get(0),finalists.get(1) ,referees.get(0));
+        int team1Goals = randomGenerator.nextInt(3);
+        int team2Goals = randomGenerator.nextInt(3);
+        System.out.println( finalists.get(0).getName() + " " + team1Goals + " - " + team2Goals + " " + finalists.get(1).getName());
+        System.out.println("Referi del partido: " + referees.get(0).toString());
+        System.out.println("-----------------------------------------");
+        if (team1Goals > team2Goals){
+            return finalists.get(0);
+        }
+        else if (team1Goals < team2Goals){
+            return finalists.get(1);
+        }   
+        else{
+            return finalMatch.penalties(finalists.get(0), finalists.get(1));
+        }
+    }
 }

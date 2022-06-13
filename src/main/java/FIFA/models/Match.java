@@ -89,7 +89,7 @@ public class Match {
 
         //show match result
         System.out.println(
-            "Resultado " + local.getName() + " " + goalsLocal + " - " + goalsVisitor + " " + visitor.getName());
+            "Resultado " + localName + " " + goalsLocal + " - " + goalsVisitor + " " + visitorName);
         System.out.println("Referi del partido: " + ref.toString());
         System.out.println("-----------------------------------------");
 
@@ -189,6 +189,11 @@ public class Match {
             goalsLocal=goalResultFirst.get(0);
             goalsVisitor=goalResultFirst.get(1);
         }
+        
+        System.out.println(
+            "Resultado Semifinal de ida: " + localName + " " + goalsLocal + " - " + goalsVisitor + " " + visitorName);
+        System.out.println("Referi del partido: " + ref.toString());
+        System.out.println("-----------------------------------------");
 
         ArrayList<Integer> goalResultSecond = new ArrayList<Integer>();
         goalResultSecond=calculateGoals();
@@ -200,13 +205,39 @@ public class Match {
             goalsLocal+=goalResultSecond.get(0);
             goalsVisitor+=goalResultSecond.get(1);
         }
+        System.out.println(
+            "Resultado final etapa de Semifinal: " + localName + " " + goalsLocal + " - " + goalsVisitor + " " + visitorName);
+        System.out.println("Referi del partido: " + ref.toString());
+        System.out.println("-----------------------------------------");
         if (goalsLocal == goalsVisitor){
-            System.out.println("FUERON A PENALES!!!!");
-            return this.local;
+            System.out.println("--- Penales ---");
+            Team winner = penalties(this.local,this.visitor);
+            return winner;
         }
-        else if( goalsLocal > goalsVisitor)
+        else if( goalsLocal > goalsVisitor){
             return this.local;
-        else return this.visitor;
+
+        }
+        else {
+            return this.visitor;
+        }
     }
+
+    public Team penalties(Team local, Team visitor){
+        Random randomGenerator = new Random();
+        int penaltiesTeamLocal = randomGenerator.nextInt(5);
+        int penaltiesTeamVisitor = randomGenerator.nextInt(5);
+        if (penaltiesTeamLocal == penaltiesTeamVisitor){
+            return penalties(local,visitor);
+        }
+        System.out.println("Penales realizados por " + local.getName() + " " + penaltiesTeamLocal);
+        System.out.println("Penales realizados por " + visitor.getName() + " " + penaltiesTeamVisitor);
+        if (penaltiesTeamLocal > penaltiesTeamVisitor){
+            return local;
+        }
+        else{
+            return visitor;
+        }
+    } 
 
 }
