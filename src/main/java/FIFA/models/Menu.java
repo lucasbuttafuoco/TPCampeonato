@@ -15,7 +15,7 @@ public class Menu {
         do{
             System.out.print("\n\t\tMenu\n---------------------------------------"
                     + "\n1:Jugar Partidos"
-                    + "\n2:Mostrar tabla de posiciones por zona"
+                    + "\n2:Mostrar tabla de posiciones general"
                     + "\n3:Reportes"
                     + "\n4:Salir\n");
             try {
@@ -24,7 +24,7 @@ public class Menu {
                 opcion = sn.nextInt();
                 switch (opcion) {
                     case 1:	playMatches(championship, referees, teams);break;
-                    case 2: showTables(championship);break;
+                    case 2: showTable(championship);break;
                     case 3: reportsMenu(championship, teams);break;
                     case 4: System.out.println("Finalizado");salir = true;break;
                     default: System.out.println("Solo números entre 1 y 4");
@@ -38,9 +38,8 @@ public class Menu {
     }
 
 
-    public static void showTables(Championship championship){
+    public static void showTable(Championship championship){
         ArrayList<TableComponent> tabla =  championship.getTable();
-        ArrayList<Zone> zonas = championship.getZones();
 
         System.out.println("Posicion | Equipo | Puntos | PJ | Dif. de Gol | Goles a favor");
         for(int i = 0; i < tabla.size(); i++){
