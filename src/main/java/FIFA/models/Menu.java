@@ -1,8 +1,6 @@
 package FIFA.models;
 
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Comparator;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -40,16 +38,12 @@ public class Menu {
 
     public static void showTable(Championship championship){
         ArrayList<TableComponent> tabla =  championship.getTable();
-
-        System.out.println("Posicion | Equipo | Puntos | PJ | Dif. de Gol | Goles a favor");
+        System.out.printf("%8s %20s %6s %6s %15s %15s", "Posicion", "Equipo ","Puntos","PJ","Dif. de Gol","Goles a favor");
+        System.out.println();  
         for(int i = 0; i < tabla.size(); i++){
             TableComponent equipo = tabla.get(i);
-            System.out.println(i+1 + "   " + 
-                               equipo.getTeamName() + "   " + 
-                               equipo.getPoints() + "   " + 
-                               equipo.getMatchsPlayed() + "   " + 
-                               equipo.getGoalsDifference() + "   " +
-                               equipo.getGoals());
+            System.out.format("%2s %25s %7s %6s %10s %15s", i+1,equipo.getTeamName(), equipo.getPoints(), equipo.getMatchsPlayed(), equipo.getGoalsDifference(),equipo.getGoals());
+            System.out.println();  
         }
     }
 

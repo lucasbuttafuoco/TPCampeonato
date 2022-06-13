@@ -1,7 +1,5 @@
 package FIFA.models;
 
-import javax.swing.text.Position;
-
 import FIFA.enums.Positions;
 
 public abstract class TeamMember extends Person {
