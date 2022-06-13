@@ -16,9 +16,9 @@ class app {
        
         Championship championship = new Championship(zones,teams);
         System.out.println("Campeonato Anual de Futbol :)");
-        
-        Match first = new Match("11-06-2022", teams.get(0),teams.get(1),referees.get(0));
-        first.result(championship);
-    };
+        championship.playZones(championship.getZones(),referees);
+
+    }
+
 
 }

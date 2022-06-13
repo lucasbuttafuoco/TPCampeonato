@@ -3,6 +3,8 @@ package FIFA.models;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import javax.sound.sampled.SourceDataLine;
+
 public class Championship {
     private ArrayList<Zone> zones;
     private ArrayList<TableComponent> positionTable;
@@ -48,17 +50,45 @@ public class Championship {
     }
 
     private ArrayList<TableComponent> createPositionTable(ArrayList<Team> teams){
-        positionTable=new ArrayList<TableComponent>();
+        ArrayList<TableComponent> posT=new ArrayList<TableComponent>();
         for (int i= 0 ; i < teams.size(); i++){
             TableComponent e = new TableComponent(teams.get(i).getName());
-            positionTable.add(e);
+            posT.add(e);
         }
-        return positionTable;
+        return posT;
     }
 
-    public void updatePositionTable(ArrayList<TableComponent> positionTable){
+    public static void updatePositionTable(ArrayList<TableComponent> positionTable){
         Collections.sort(positionTable,Collections.reverseOrder());
     }
 
+    public void playZones(ArrayList<Zone> zones, ArrayList<Referee> referees){
+        String actualDate = "11-11-2020";
+        ArrayList<TableComponent> positionTableZone1 = createPositionTable(zones.get(0).getTeams()) ;
+        ArrayList<TableComponent> positionTableZone2 = createPositionTable(zones.get(1).getTeams()) ;
+        
+        //matchs ZONE 1:
+        for (int i = 0 ; i < 4 ; i ++){
+            for (int j = 0 ; j < 4 ; j++){
+               
+                if (j < i){
+                    Match actualMatch = new Match(actualDate, zones.get(0).getTeams().get(i), zones.get(0).getTeams().get(j) ,referees.get(0));
+                    actualMatch.result(positionTable, positionTableZone1);
+                }
+            }
+        }
 
+        //matchs ZONE 2:
+        for (int i = 0 ; i < 4 ; i ++){
+            for (int j = 0 ; j < 4 ; j++){
+               
+                if (j < i){
+                    Match actualMatch = new Match(actualDate, zones.get(1).getTeams().get(i), zones.get(1).getTeams().get(j) ,referees.get(0));
+                    actualMatch.result(positionTable, positionTableZone2);
+                }
+            }
+        }
+        System.out.println();
+    }
+    
 }

@@ -48,8 +48,7 @@ public class Match {
         this.ref = ref;
     }
 
-    public void result(Championship championship) {
-        ArrayList<TableComponent> table = championship.getTable();
+    public void result(ArrayList<TableComponent> positionTable, ArrayList<TableComponent> zoneTable) {
         String localName = local.getName();
         String visitorName = visitor.getName();
         int localRanking = local.getRankingPosition();
@@ -86,19 +85,29 @@ public class Match {
 
         //update table
         int i = 0;
-        while(table.get(i).getTeamName().compareTo(localName) != 0){
+        while(positionTable.get(i).getTeamName().compareTo(localName) != 0){
             i++;
         }
-        table.get(i).updateTable(localName, goalsLocal, goalsVisitor);
+        positionTable.get(i).updateTable(localName, goalsLocal, goalsVisitor);
+        i = 0;
+        while(zoneTable.get(i).getTeamName().compareTo(localName) != 0){
+            i++;
+        }
+        zoneTable.get(i).updateTable(localName, goalsLocal, goalsVisitor);
 
         i = 0;
-        while(table.get(i).getTeamName().compareTo(visitorName) != 0){
-            
+        while(positionTable.get(i).getTeamName().compareTo(visitorName) != 0){
             i++;
         }
-        table.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
+        positionTable.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
+        i = 0;
+        while(zoneTable.get(i).getTeamName().compareTo(visitorName) != 0){
+            i++;
+        }
+        zoneTable.get(i).updateTable(visitorName, goalsVisitor, goalsLocal);
         
-        championship.updatePositionTable(table);
+        Championship.updatePositionTable(positionTable);
+        Championship.updatePositionTable(zoneTable);
 
         //show match result
         System.out.println(
