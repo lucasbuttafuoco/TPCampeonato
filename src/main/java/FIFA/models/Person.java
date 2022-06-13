@@ -55,6 +55,7 @@ public abstract class Person{
         this.nationality = nationality;
     }
 
+    
     public String toString(){
         return ("\n - Name: " + name + " Birth date: " + birthDate + " " + typeDNI +  ": " + DNI +  " Nationality: " + nationality);
     }

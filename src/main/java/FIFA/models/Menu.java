@@ -1,6 +1,7 @@
 package FIFA.models;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -10,7 +11,6 @@ public class Menu {
         Scanner sn = new Scanner(System.in);
         boolean salir = false;
         int opcion;
-
         do{
             System.out.print("\n\t\tMenu\n---------------------------------------"
                     + "\n1:Jugar Partido"
@@ -97,7 +97,17 @@ public class Menu {
 
 
     public static void teamsList(Championship championship, ArrayList<Team> teams){
-    
+        ArrayList<TableComponent> tabla =  championship.getTable();
+        int w;
+
+        for(int i = 0; i < tabla.size(); i++){
+            w = 0;
+            while(tabla.get(i).getTeamName() != teams.get(i).getName()){
+                w++;
+            }
+            
+        }
+        
     
     
     }
@@ -113,8 +123,8 @@ public class Menu {
             System.out.print("\n\t\tSeleccione posicion\n---------------------------------------"
                     + "\n1:ARQUEROS"
                     + "\n2:DEFENSORES"
-                    + "\n2:MEDIOCAMPISTAS"
-                    + "\n2:DELANTEROS"
+                    + "\n3:MEDIOCAMPISTAS"
+                    + "\n4:DELANTEROS"
                     + "\n5:Volver\n");
             
             try {
@@ -127,17 +137,17 @@ public class Menu {
                         readGoalKeepers(championship, teams);
                         break;
                     case 2:
-                        posicion = "defensor";
+                        posicion = new String("DEFENSOR");
                         System.out.println("Defensores");
                         readPlayers(teams, posicion);
                         break;						
                     case 3:
-                        posicion = "mediocampista";
+                        posicion = new String("MEDIOCAMPISTA");
                         System.out.println("Mediocampistas");
                         readPlayers(teams, posicion);
                         break;
                     case 4:
-                        posicion = "delantero";
+                        posicion = new String("DELANTERO");
                         System.out.println("Delanteros");
                         readPlayers(teams, posicion);
                         break;
@@ -154,31 +164,57 @@ public class Menu {
 
 
     public static void readGoalKeepers(Championship championship, ArrayList<Team> teams){
-        ArrayList<TableComponent> tabla;
+        ArrayList<TableComponent> tabla =  championship.getTable();
+        int w;
 
         for(int i = 0; i < teams.size(); i++){
+            System.out.println("-----------------------------");
             System.out.println("Arqueros del equipo " + teams.get(i).getName());
             for(int j = 0; j < teams.get(i).getTeamList().size(); j++){
-                // if( == "arquero"){
-                //     System.out.println("datos");
-                //     tabla = championship.getTable();
-                // }
+                TeamMember tm = teams.get(i).getTeamList().get(j);
+            
+                if(tm.getClass() == Player.class){
+                    if(tm.getPosition().toString().equals("ARQUERO")){
+                        System.out.println(tm.getName() + " " +
+                                           tm.getBirthDate() + " " +
+                                           tm.getTypeDNI() + " " +
+                                           tm.getDNI() + " " +
+                                           tm.getNationality() + " " +
+                                           tm.getActualTeam());
+                        w = 0;
+                        while(tabla.get(w).getTeamName() != teams.get(i).getName()){
+                            w++;
+                        }
+                        System.out.println("Goles a favor: " + tabla.get(w).getGoals());
+                        System.out.println("Goles en contra: " + tabla.get(w).getGoalsAgainst());
+                    }
+                }
             }
         }
-
     }
 
 
     public static void readPlayers(ArrayList<Team> teams, String posicion){
+        String pos = posicion.toUpperCase();
+
         for(int i = 0; i < teams.size(); i++){
+            System.out.println("-----------------------------");
             System.out.println("Jugadores del equipo " + teams.get(i).getName() + " que juegan de " + posicion);
             for(int j = 0; j < teams.get(i).getTeamList().size(); j++){
-                // if(teams.get(i).getTeamList().get(j). == posicion){
-                //     System.out.println("datos");
-                // }
+                TeamMember tm = teams.get(i).getTeamList().get(j);
+                
+                if(tm.getClass() == Player.class){
+                    if(tm.getPosition().toString().equals(pos)){
+                        System.out.println(tm.getName() + " " +
+                                           tm.getBirthDate() + " " +
+                                           tm.getTypeDNI() + " " +
+                                           tm.getDNI() + " " +
+                                           tm.getNationality() + " " +
+                                           tm.getActualTeam());
+                    }
+                }
             }
         }
-
     }
 
 }

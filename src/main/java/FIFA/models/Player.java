@@ -5,7 +5,7 @@ import FIFA.enums.*;
 public class Player extends TeamMember {
     private Positions position;
     private int handicap;
-
+    
     public Player(String name, String fechaNacimiento, String typeDNI, String dNI, String nationality, String pais, String pos,
             int handicap) {
         super(name, fechaNacimiento, typeDNI, dNI, nationality, pais);

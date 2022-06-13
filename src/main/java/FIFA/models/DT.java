@@ -1,7 +1,10 @@
 package FIFA.models;
 
+import FIFA.enums.Positions;
 
 public class DT extends TeamMember{
+    private Positions position;
+    
     public DT(String name, String birthDate, String typeDNI, String dNI, String nationality, String actualTeam, int titles) {
         super(name, birthDate, typeDNI, dNI, nationality, actualTeam);
         this.titles=titles;
@@ -22,5 +25,8 @@ public class DT extends TeamMember{
         return super.toString() + "DT [titles=" + titles + "]";
     }
 
+    public Positions getPosition() {
+        return position;
+    }
     
 }

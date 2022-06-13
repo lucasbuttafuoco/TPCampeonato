@@ -16,7 +16,7 @@ class app {
         read.readTeam(teams);
         read.readReferee(referees);
         Championship championship = new Championship(zones,teams);
-        
+
         menu.MenuOp(championship, referees, teams);
 
     }
