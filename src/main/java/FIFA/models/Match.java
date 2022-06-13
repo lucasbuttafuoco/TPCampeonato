@@ -87,7 +87,6 @@ public class Match {
         //update table
         int i = 0;
         while(table.get(i).getTeamName().compareTo(localName) != 0){
-
             i++;
         }
         table.get(i).updateTable(localName, goalsLocal, goalsVisitor);
@@ -110,7 +109,6 @@ public class Match {
     
     private boolean calculateLoserProb(int team1ranking, int team2ranking){
         float p = team1ranking+team2ranking;
-        System.out.println("team 1: " + team1ranking + "team 2: " + team2ranking);
         float result;
         double random = Math.random();
         if(team1ranking > team2ranking){
@@ -129,11 +127,28 @@ public class Match {
 
     private ArrayList<Integer> calculateGoals(){
         Random randomGenerator = new Random();
+        Random randomGeneratorTie = new Random();
         ArrayList<Integer> result = new ArrayList<Integer>();
-        int winnerGoals = 1+randomGenerator.nextInt(5);
-        result.add(winnerGoals);
-        int loserGoals = randomGenerator.nextInt(winnerGoals-1);
-        result.add(loserGoals);
+        int loserGoals;
+        int tieProbs = randomGeneratorTie.nextInt(5);
+        if (tieProbs == 0){
+            //tie 20% probs
+            int goals = randomGenerator.nextInt(5);
+            result.add(goals);
+            result.add(goals);
+        }
+        else{
+            int winnerGoals = randomGenerator.nextInt(5)+1;
+            result.add(winnerGoals);
+            if (winnerGoals == 1){
+                loserGoals = 0;
+            }
+            else{
+                loserGoals = randomGenerator.nextInt(winnerGoals-1);
+            }
+            
+            result.add(loserGoals);
+        }   
         return result;
     }
 

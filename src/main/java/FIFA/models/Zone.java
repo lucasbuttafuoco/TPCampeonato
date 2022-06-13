@@ -7,8 +7,7 @@ public class Zone {
     private Championship actualChampionship;
     private ArrayList<Team> teams;
 
-    public Zone(Championship actualChampionship, ArrayList<Team> teams) {
-        this.actualChampionship = actualChampionship;
+    public Zone(ArrayList<Team> teams) {
         this.teams = teams;
     }
 
